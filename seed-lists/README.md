@@ -11,6 +11,11 @@ Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
 
 * PURL_server_domains_20240214.csv: report of all target domains from the PURL server.
 
+### Internet Archive seeds
+Seeds supplied by Antoine McGrath of Internet Archive:
+
+* CRS_ReportsList.csv - nominated URLs to government hosted CRS Reports from Daniel Schuman with the American Governance Institute.
+
 ### Standford seeds
 Seeds supplied by James Jacobs of Stanford University Libraries:
 
