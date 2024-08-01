@@ -16,6 +16,10 @@ Seeds supplied by Antoine McGrath of Internet Archive:
 
 * CRS_ReportsList.csv - nominated URLs to government hosted CRS Reports from Daniel Schuman with the American Governance Institute.
 
+### Library of Congress seeds
+
+* LOC-seeds-for-eot-20240712.xlsx
+
 ### Standford seeds
 Seeds supplied by James Jacobs of Stanford University Libraries:
 
