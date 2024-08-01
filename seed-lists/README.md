@@ -24,3 +24,8 @@ Seeds supplied by Antoine McGrath of Internet Archive:
 Seeds supplied by James Jacobs of Stanford University Libraries:
 
  * FOIA_Libraries_Dataset_Oct_3_2023_Final.xlsx - spreadsheet with seeds for all of the federal FOIA libraries. Lisa DeLuca, who collated the list, said it would be fine to use her spreadsheet from https://works.bepress.com/lisa_deluca/59/.
+
+### UC San Diego
+Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian for Urban Studies & Planning / Environmental Studies at UC San Diego Library (via James Jacobs):
+
+* govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
