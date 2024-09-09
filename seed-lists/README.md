@@ -26,6 +26,7 @@ Seeds supplied by Elizabeth England of the U.S. National Archives and Records Ad
 
 * 117th_House_Seeds.xlsx - contains five sheets, one each for: House members, majority committees, minority committees, caucuses, and leadership/support/other.
 * 117th_Senate_Seeds.xlsx
+* 118th_House_Seed_List.xlsx - contains five sheets, one each for: House members, majority committees, minority committees, caucuses, and leadership/support/other.
 * 118th_Senate.xlsx
 
 ### Stanford seeds
