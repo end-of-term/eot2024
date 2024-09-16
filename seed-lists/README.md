@@ -52,5 +52,7 @@ The End of Term Web Archive team compiled a list of sources on the Web from whic
 
 ### Common Crawl Foundation seeds
 
+See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seeds-2024) for details.
+
 * ccf-gov-federal-web-graph-2024-jun-jul-aug.txt -- all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
 * ccf-mil-web-graph-2024-jun-jul-aug.txt -- all .mil hostnames from CCF's 2024 June/July/August web graph
