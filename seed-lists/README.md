@@ -4,6 +4,13 @@ Posted here are seed lists used in the 2024 End of Term Web Archive project.
 Provenance notes are included below. These lists will be uploaded into the
 [End of Term Bulk Nomination Tool](https://digital2.library.unt.edu/nomination/eth2024_bulk/).
 
+### Common Crawl Foundation seeds
+
+See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seeds-2024) for details.
+
+* ccf-gov-federal-web-graph-2024-jun-jul-aug.txt -- all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
+* ccf-mil-web-graph-2024-jun-jul-aug.txt -- all .mil hostnames from CCF's 2024 June/July/August web graph
+
 ### GPO seeds
 Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
 
@@ -49,10 +56,4 @@ The End of Term Web Archive team compiled a list of sources on the Web from whic
 * us-government-website-directory.csv - Pulled from [GSA's federal-website-directory repo](https://github.com/GSA/federal-website-directory) (via https://raw.githubusercontent.com/GSA/federal-website-directory/main/us-government-website-directory.csv on 9/12/2024). The repo README indicates "The Federal Website Directory is a comprehensive list of the public-facing websites of the U.S. Federal Government, spanning all three branches".
 * dotmil_websites.csv - Pulled from [GSA's federal-website-index repo](https://github.com/GSA/federal-website-index) (via https://github.com/GSA/federal-website-index/blob/main/data/dataset/dotmil_websites.csv on 9/12/2024)
 * 2_govt_urls_federal_only.csv - Pulled from [GSA's govt-urls repo](https://github.com/GSA/govt-urls/) (via https://raw.githubusercontent.com/GSA/govt-urls/main/2_govt_urls_federal_only.csv on 9/12/2024). The README indicates the repo "contains the list of public government managed domains that exist outside of the top-level .gov and .mil domains."
-
-### Common Crawl Foundation seeds
-
-See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seeds-2024) for details.
-
-* ccf-gov-federal-web-graph-2024-jun-jul-aug.txt -- all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
-* ccf-mil-web-graph-2024-jun-jul-aug.txt -- all .mil hostnames from CCF's 2024 June/July/August web graph
+* usagov.csv - Seeds scraped from https://www.usa.gov/agency-index/ by Jake Abrams, Founder, CivicsUS, LLC.
