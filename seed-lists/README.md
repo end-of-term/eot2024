@@ -40,11 +40,13 @@ Seeds supplied by Elizabeth England of the U.S. National Archives and Records Ad
 Seeds supplied by James Jacobs of Stanford University Libraries:
 
 * FOIA_Libraries_Dataset_Oct_3_2023_Final.xlsx - spreadsheet with seeds for all of the federal FOIA libraries. Lisa DeLuca, who collated the list, said it would be fine to use her spreadsheet from https://works.bepress.com/lisa_deluca/59/.
+* govdoc-l-seeds-2024.txt - seeds from documents/sites recommended on the govdoc-l Listserv 2020 - 2024.
 
 ### UC San Diego
 Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian for Urban Studies & Planning / Environmental Studies at UC San Diego Library (via James Jacobs):
 
 * govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
+* RoundupListsforEOT.txt
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
