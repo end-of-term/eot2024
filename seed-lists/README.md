@@ -47,6 +47,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 
 * govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
 * RoundupListsforEOT.txt
+* govspeakurls1124.txt - updated list of govspeak links, about 250 new items added since the August list; also, CDC, ED, and a couple other agencies have done significant reorganization of their websites since then
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
