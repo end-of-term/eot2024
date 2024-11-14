@@ -11,7 +11,11 @@ See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seed
 * ccf-gov-federal-web-graph-2024-jun-jul-aug.txt -- all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
 * ccf-mil-web-graph-2024-jun-jul-aug.txt -- all .mil hostnames from CCF's 2024 June/July/August web graph
 
-### GPO seeds
+### Environmental Data & Governance Initiative (EDGI) seeds
+Seeds supplied by Gretchen Gehrke of EDGI:
+* Violation_Tracker_unique_infosource_URLs.csv - list of seeds supplied by an EDGI collaborator.
+
+### U.S. Government Publishing Office (GPO) seeds
 Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
 
 * FDLP_WEb_Archiveseed_list_20240212.csv - list of seeds from the FDLP Web Archive with one page only seeds deleted, that were mainly embedded youtube videos.
@@ -42,7 +46,7 @@ Seeds supplied by James Jacobs of Stanford University Libraries:
 * FOIA_Libraries_Dataset_Oct_3_2023_Final.xlsx - spreadsheet with seeds for all of the federal FOIA libraries. Lisa DeLuca, who collated the list, said it would be fine to use her spreadsheet from https://works.bepress.com/lisa_deluca/59/.
 * govdoc-l-seeds-2024.txt - seeds from documents/sites recommended on the govdoc-l Listserv 2020 - 2024.
 
-### UC San Diego
+### University of California San Diego seeds
 Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian for Urban Studies & Planning / Environmental Studies at UC San Diego Library (via James Jacobs):
 
 * govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
