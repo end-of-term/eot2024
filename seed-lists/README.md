@@ -25,6 +25,7 @@ Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
 
+* bsky_gov_urlverified.txt - URLs for official US Senate.gov and House.gov bluesky accounts.
 * CRS_ReportsList.csv - nominated URLs to government hosted CRS Reports from Daniel Schuman with the American Governance Institute.
 
 ### Library of Congress seeds
