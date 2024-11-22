@@ -47,6 +47,11 @@ Seeds supplied by Elizabeth England of the U.S. National Archives and Records Ad
 * 118th_House_Seed_List.xlsx - contains five sheets, one each for: House members, majority committees, minority committees, caucuses, and leadership/support/other.
 * 118th_Senate.xlsx
 
+### National Library of Medicine
+Seeds supplied by Christie Moffatt of the National Library of Medicine:
+
+* NLMRecommendationsEOT2024.xlsx - highest priority are federal seeds recommended for NLM's Sexual and Gender Minority Health web archive, which have been identified by NIH's Sexual and Gender Minority Research Office.
+
 ### Stanford seeds
 Seeds supplied by James Jacobs of Stanford University Libraries:
 
