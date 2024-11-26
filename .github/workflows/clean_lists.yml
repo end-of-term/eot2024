@@ -41,6 +41,8 @@ jobs:
     - name: Setup Poetry
       uses: Gr1N/setup-poetry@v8
 
+    - run: poetry install
+
     - name: Cache Poetry deps
       uses: actions/cache@v4
       with:
