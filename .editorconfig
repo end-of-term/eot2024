@@ -1,0 +1,76 @@
+# .editorconfig
+# ------------------------------
+# Editor Configuration
+# ------------------------------
+
+# Top-most EditorConfig file
+root = true
+
+# ------------------------------
+# Global Settings
+# ------------------------------
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+charset = utf-8
+
+# ------------------------------
+# Language Specific Settings
+# ------------------------------
+
+# Python
+[*.py]
+charset = utf-8
+indent_style = space
+indent_size = 4
+max_line_length = 79
+
+# Rust
+[*.rs]
+indent_style = space
+indent_size = 4
+
+# R
+[*.R]
+indent_style = space
+indent_size = 2
+
+# JavaScript and CSS
+[*.{js,css}]
+brace_style = allman
+indent_style = space
+indent_size = 4
+
+# HTML
+[*.html]
+indent_style = space
+indent_size = 2
+
+# SQL
+[*.sql]
+indent_style = space
+indent_size = 2
+
+# YAML
+[*.{yml,yaml}]
+indent_style = space
+indent_size = 2
+
+# Dockerfile
+[Dockerfile]
+indent_style = space
+indent_size = 2
+
+# Makefile
+[Makefile]
+indent_style = tab
+
+# Markdown
+[*.md]
+max_line_length = 120
+
+# ------------------------------
+# Additional Specific Settings
+# ------------------------------

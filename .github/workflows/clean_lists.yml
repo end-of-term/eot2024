@@ -1,0 +1,86 @@
+# .github/workflows/link_checker.yml
+name: Link Checker
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+env:
+  LOG_LEVEL: debug
+  LOG_VERBOSE: true
+  LOG_FILES: false
+  LOG_FILE_TYPE: text
+  LOG_PATH: logs
+  LOG_TIMEZONE: America/New_York
+  LOG_FUN: true
+
+
+jobs:
+  build:
+    name: 🔍 those 🌐 🔗
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Setup Poetry
+      uses: Gr1N/setup-poetry@v8
+
+    - name: Cache Poetry deps
+      uses: actions/cache@v4
+      with:
+        path: ~/.cache/pypoetry/virtualenvs
+        key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+
+    - run: poetry --version
+      env:
+        LOG_LEVEL: ${{ env.LOG_LEVEL }}
+        LOG_VERBOSE: ${{ env.LOG_VERBOSE }}
+        LOG_FILES: ${{ env.LOG_FILES }}
+        LOG_FILE_TYPE: ${{ env.LOG_FILE_TYPE }}
+        LOG_PATH: ${{ env.LOG_PATH }}
+        LOG_TIMEZONE: ${{ env.LOG_TIMEZONE }}
+        LOG_FUN: ${{ env.LOG_FUN }}
+
+    - name: Run Importer & Cleaner
+      run: poetry run python -m cleaner
+
+    - name: Copy cleaned seedlist to repo root
+      run: cp output/urls.csv seed-list.csv
+
+    - name: Verify Changed files
+      id: verify-changed-files
+      uses: tj-actions/verify-changed-files@v20
+      with:
+        files: |
+          output
+          seed-lists
+          config
+          *.txt
+          *.csv
+
+    - name: Commit and Push Changes
+      if: steps.verify-changed-files.outputs.files_changed == 'true'
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: Updated seed-list
+        branch: main
+        #file_pattern: |
+        #  Archives.md
+        #  datasets/*.md
+      #env:
+       # GIT_USER_NAME: ${{ secrets.ACTIONS_USERNAME }}
+       # GIT_USER_EMAIL: ${{ secrets.ACTIONS_EMAIL }}
+      #  GITHUB_TOKEN: ${{ secrets.ACTIONS_TOKEN }}
