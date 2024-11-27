@@ -8,6 +8,7 @@ from .purge_ignores import load_ignore_list, filter_urls_and_domains
 from pathlib import Path
 from .utils.logging import logger
 import csv
+from .xlsx_handler import process_xlsx_file
 
 # Directories
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -43,7 +44,10 @@ def process_files():
         if file.is_file():
             relative_file = file.relative_to(BASE_DIR)
             logger.debug(f"Processing file: {relative_file}")
-            file_urls, file_domains = extract_urls_and_domains(file)
+            if file.suffix == ".xlsx":
+                file_urls, file_domains = process_xlsx_file(file)
+            else:
+                file_urls, file_domains = extract_urls_and_domains(file)
             # Normalize URLs before counting
             normalized_urls = {normalize_url(url): count for url, count in file_urls.items()}
             url_counter.update(normalized_urls)
