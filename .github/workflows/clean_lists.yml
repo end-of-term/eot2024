@@ -1,5 +1,5 @@
-# .github/workflows/link_checker.yml
-name: Link Checker
+# .github/workflows/clean_lists.yml
+name: List Cleaner
 
 on:
   push:
