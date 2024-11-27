@@ -7,12 +7,14 @@ from .file_io import save_to_csv
 from .purge_ignores import load_ignore_list, filter_urls_and_domains
 from pathlib import Path
 from .utils.logging import logger
+import csv
 
 # Directories
 BASE_DIR = Path(__file__).resolve().parent.parent
 INPUT_DIR = BASE_DIR / "seed-lists"
 OUTPUT_DIR = BASE_DIR / "output"
 IGNORE_FILE = OUTPUT_DIR / "ignore_domains.csv"
+SEED_OUTPUT_FILE = BASE_DIR / "seed-list.csv"
 
 def process_files():
     """Main processing function."""
@@ -70,5 +72,22 @@ def process_files():
     ignore_list = load_ignore_list(IGNORE_FILE)
     if ignore_list:
         filter_urls_and_domains(urls_path, domains_path, ignore_list)
+
+    # Generating seed-list.csv
+    logger.info("Generating seed-list.csv...")
+    try:
+        # Open input and output files
+        with urls_path.open("r", newline="", encoding="utf-8") as infile, SEED_OUTPUT_FILE.open("w", newline="", encoding="utf-8") as outfile:
+            reader = csv.DictReader(infile)
+            writer = csv.writer(outfile)
+            writer.writerow(["url"])
+            for row in reader:
+                if "url" in row:
+                    writer.writerow([row["url"]])
+        logger.info(f"Seed list generated and saved to {SEED_OUTPUT_FILE.relative_to(BASE_DIR)}")
+    except FileNotFoundError:
+        logger.error(f"Input file {urls_path.relative_to(BASE_DIR)} not found. Seed list generation skipped.")
+    except Exception as e:
+        logger.error(f"Error generating seed-list.csv: {e}")
 
     logger.info("File processing complete.")

@@ -11,8 +11,8 @@ on:
   workflow_dispatch:
 
 env:
-  LOG_LEVEL: debug
-  LOG_VERBOSE: true
+  LOG_LEVEL: info
+  LOG_VERBOSE: false
   LOG_FILES: false
   LOG_FILE_TYPE: text
   LOG_PATH: logs
@@ -61,9 +61,6 @@ jobs:
 
     - name: Run Importer & Cleaner
       run: poetry run python -m cleaner
-
-    - name: Copy cleaned seedlist to repo root
-      run: cp output/urls.csv seed-list.csv
 
     - name: Verify Changed files
       id: verify-changed-files
