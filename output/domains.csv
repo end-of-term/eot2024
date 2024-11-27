@@ -76,8 +76,8 @@ commerce.gov,83
 uspsoig.gov,82
 fec.gov,81
 blogs.loc.gov,80
+irs.gov,78
 fema.gov,77
-irs.gov,77
 fns.usda.gov,76
 ars.usda.gov,75
 hsgac.senate.gov,75
@@ -240,6 +240,8 @@ cpsc.gov,18
 fmcsa.dot.gov,18
 ntsb.gov,18
 osmre.gov,18
+senate.gov,18
+bsky.app,18
 feb.gov,18
 oig.ssa.gov,18
 public-inspection.federalregister.gov,18
@@ -252,7 +254,6 @@ bis.doc.gov,17
 drought.gov,17
 intelligence.senate.gov,17
 msha.gov,17
-senate.gov,17
 usagm.gov,17
 usitc.gov,17
 slideshare.net,17
@@ -401,6 +402,7 @@ democrats-judiciary.house.gov,11
 intel.gov,11
 modernizecongress.house.gov,11
 eenews.net,11
+house.gov,11
 supremecourtus.gov,11
 scuspd.gov,11
 scus.gov,11
@@ -464,7 +466,6 @@ selectusa.gov,10
 healthindicators.gov,10
 pubs.er.usgs.gov,10
 armed-services.senate.gov,10
-house.gov,10
 us-cert.gov,10
 arren.senate.gov,10
 go.usa.gov,10
@@ -43073,7 +43074,9 @@ security.¬†omb,1
 waterqualitydata.us,1
 ccf-gov-federal-web-graph-2024-jun-jul-aug.txt,1
 ccf-mil-web-graph-2024-jun-jul-aug.txt,1
+infodocket-11-21-2024.xlsx,1
 loc-seeds-for-eot-20240712.xlsx,1
+nlmrecommendationseot2024.xlsx,1
 govdoc-l-seeds-2024.txt,1
 govspeakeot080124.xlsx,1
 rounduplistsforeot.txt,1
@@ -43082,7 +43085,9 @@ military-departments-a-z-list.csv,1
 site-scanning-target-url-list.csv,1
 us-government-website-directory.csv,1
 usagov.csv,1
+͟.͢0,1
 x.qj,1
+i.wj,1
 wpafb.af.mil,1
 public.cyber.mil,1
 tycho.usno.navy.mil,1
