@@ -1,0 +1,191 @@
+# config/main.yml
+
+# Where we improt various files
+imports:
+  gov_zone_file:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/gov.txt"
+    path: seed-lists/AUTO_CISA_gov_zone_file.txt
+    remove:
+      line_start: ";;"
+      trailing_content: ".gov"
+
+  current_federal:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-federal.csv"
+    path: seed-lists/AUTO_CISA_current_federal.txt
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  us_states:
+    url: "https://raw.githubusercontent.com/GSA/govt-urls/refs/heads/main/3_govt_urls_state_only.csv"
+    path: config/domain_ignores/AUTO_GSA_states.txt
+    remove:
+      line_start: "﻿Domain"
+      trailing_content: ","
+
+  counties:
+    url: "https://raw.githubusercontent.com/GSA/govt-urls/refs/heads/main/5_govt_urls_county_only.csv"
+    path: config/domain_ignores/AUTO_GSA_counties.txt
+    remove:
+      line_start: "﻿Domain"
+      trailing_content: ","
+
+  locals:
+    url: "https://raw.githubusercontent.com/GSA/govt-urls/refs/heads/main/6_govt_urls_local_only.csv"
+    path: config/domain_ignores/AUTO_GSA_local.txt
+    remove:
+      line_start: "﻿Domain"
+      trailing_content: ","
+
+  regionals:
+    url: "https://raw.githubusercontent.com/GSA/govt-urls/refs/heads/main/4_govt_urls_regional_only.csv"
+    path: config/domain_ignores/AUTO_GSA_regional.txt
+    remove:
+      line_start: "﻿Domain"
+      trailing_content: ","
+
+  cisa_cities:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_city.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - City
+          - City - Election
+
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_counties:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_counties.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - County
+          - County - Election
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_state:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_state.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - State or territory
+          - State or territory - Election
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_special:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_special.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - Special district
+          - Special district - Election
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_interstate:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_interstate.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - Interstate
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+
+  cisa_tribal:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_tribal.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - Tribal
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_school_district:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: config/domain_ignores/AUTO_CISA_school_district.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - School district
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+  cisa_federal:
+    url: "https://raw.githubusercontent.com/cisagov/dotgov-data/refs/heads/main/current-full.csv"
+    path: seed-lists/AUTO_CISA_federal.txt
+    filter:
+      by_column:
+        column_name: "Domain type"
+        values:
+          - Federal - Executive
+          - Federal - Judicial
+          - Federal - Legislative
+    remove:
+      line_start: "Domain name"
+      trailing_content: ","
+
+
+
+
+sitemaps:
+  # where we check for sitemaps... TODO: less bad
+  paths:
+    - sitemap.xml
+    - sitemap_index.xml
+    - sitemap
+    - sitemap.html
+    - page-sitemap
+    - post-sitemap
+    - sitemapindex.xml
+    - sitemap-index.xml
+    - siteindex
+
+# WIP: needs some thoughts. not used by cleaner right now
+finder:
+  txts:
+    - robots.txt
+    - carbon.txt
+    - humans.txt
+    - security.txt
+    - ads.txt
+    - help.txt
+
+
+# Output Configuration
+output:
+    domains:
+      path: domains.csv
+      sort:
+        type: count # options: name or count
+        direction: desc # asc or desc
+
+    urls:
+      path: urls.csv
+      sort:
+        type: count
+        direction: desc
+

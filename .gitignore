@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__
+
+.nova
+
+# locals
+output_dev
+test.csv
+getter
+.env
