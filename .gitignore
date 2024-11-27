@@ -8,3 +8,9 @@ output_dev
 test.csv
 getter
 .env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
