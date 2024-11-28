@@ -445,12 +445,10 @@ cbca.gov,13
 contractdirectory.gov,13
 dsac.gov,13
 energystar.gov,13
-esrs.gov,13
 fedcenter.gov,13
 fjc.gov,13
 fpc.gov,13
 fpds.gov,13
-fsrs.gov,13
 investor.gov,13
 iprcenter.gov,13
 nro.gov,13
@@ -651,11 +649,13 @@ cmts.gov,10
 digitalpreservation.gov,10
 digitizationguidelines.gov,10
 ecfr.gov,10
+esrs.gov,10
 evergladesrestoration.gov,10
 evus.gov,10
 fleta.gov,10
 fnal.gov,10
 foreignassistance.gov,10
+fsrs.gov,10
 gps.gov,10
 ipp.gov,10
 jobcorps.gov,10
@@ -719,7 +719,6 @@ max.gov,10
 reproductiverights.gov,10
 400yaahc.gov,10
 citizenscience.gov,10
-fbo.gov,10
 fedidcard.gov,10
 fedinfo.gov,10
 fmi.gov,10
@@ -1073,6 +1072,7 @@ cao.gov,8
 coffa.gov,8
 digitaldashboard.gov,8
 fbf.gov,8
+fbo.gov,8
 fedrooms.gov,8
 frpg.gov,8
 login.gov,8
@@ -2418,7 +2418,6 @@ bidenlibrary.gov,4
 bidenwhitehouse.gov,4
 d250.gov,4
 declaration250.gov,4
-cherrycreekvalleywaterco.gov,4
 www.aids.gov,4
 alford.house.gov,3
 amo.house.gov,3
