@@ -28,4 +28,4 @@ The project has two phases: A broad, comprehensive baseline crawl of identified 
 
 ## How to connect
 * Join the [End of Term listserv](mailto:eot2016@archive.org).
-* Follow the [End of Term Twitter account](https://twitter.com/eotarchive).
+* Follow the [End of Term Bluesky account]((https://bsky.app/profile/eotarchive.org)).
