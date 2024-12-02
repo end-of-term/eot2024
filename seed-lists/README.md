@@ -27,6 +27,11 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 
 * infodocket-11-21-2024.xlsx - from Gary Price.
 * irs_documents.xlsx - list of irs.gov document seeds.
+* DNI and CFPB.xslx
+* DOJ, White_House, DEA, ATF, FBI.xlsx
+* FDA_letters_releases_approvals.xlsx
+* HHS 2020-.xlsx
+* HRSA (2020-).xlsx
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
@@ -64,6 +69,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
 * RoundupListsforEOT.txt
 * govspeakurls1124.txt - updated list of govspeak links, about 250 new items added since the August list; also, CDC, ED, and a couple other agencies have done significant reorganization of their websites since then
+*  eot_lgbtqandmisc.txt - 4300+ urls for the EOT project. Most of these were identified by the small group working on lgbtq+ pages and some others from my libguide pages -- the Roe v. Wade links, a lot of the stats/data sites from the Data Is Plural federal list, weekly roundups
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
