@@ -32,6 +32,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * FDA_letters_releases_approvals.xlsx
 * HHS 2020-.xlsx
 * HRSA (2020-).xlsx
+* BLM 2020-2024.xlsx - 2544 entries from the Bureau of Land Management. Most but not all PDFs. Along with the usual techniques, a number of extra searches were done to find documents that include terms like ANWR, oil, fracking, etc.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
