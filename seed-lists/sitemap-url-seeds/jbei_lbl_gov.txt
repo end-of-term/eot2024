@@ -1,0 +1,7 @@
+https://www.jbei.org/author-sitemap.xml
+https://www.jbei.org/category-sitemap.xml
+https://www.jbei.org/cpt-jbei-person-sitemap.xml
+https://www.jbei.org/jbei_organization-sitemap.xml
+https://www.jbei.org/page-sitemap.xml
+https://www.jbei.org/post-sitemap.xml
+https://www.jbei.org/post_tag-sitemap.xml

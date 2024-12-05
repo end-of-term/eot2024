@@ -1,0 +1,15 @@
+https://labs.waterdata.usgs.gov/
+https://labs.waterdata.usgs.gov/about/
+https://labs.waterdata.usgs.gov/docs/
+https://labs.waterdata.usgs.gov/docs/graphql/
+https://labs.waterdata.usgs.gov/docs/graphql/about-explore-usgs-water-data-api/
+https://labs.waterdata.usgs.gov/docs/nldi/
+https://labs.waterdata.usgs.gov/docs/nldi/about-nldi/
+https://labs.waterdata.usgs.gov/docs/nldi/nldi-api-definition/
+https://labs.waterdata.usgs.gov/docs/sensorthings/
+https://labs.waterdata.usgs.gov/docs/sensorthings/about-sensor-things-api-sample-queries/
+https://labs.waterdata.usgs.gov/docs/sensorthings/about-sensor-things-pbs-api/
+https://labs.waterdata.usgs.gov/docs/sensorthings/building-api-queries/
+https://labs.waterdata.usgs.gov/https/labs.waterdata.usgs.gov/api/nldi/pygeoapi/
+https://labs.waterdata.usgs.gov/https/labs.waterdata.usgs.gov/geoserver/web/wicket/bookmarkable/org.geoserver.web.demo.mappreviewpage2filterfalse/
+https://labs.waterdata.usgs.gov/repositories/

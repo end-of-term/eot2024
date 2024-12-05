@@ -1,0 +1,8 @@
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/advanced.aspx
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/conversationresults.aspx
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/peopleresults.aspx
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/reportsanddataresults.aspx
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/results.aspx
+https://lmpublicsearch.lm.doe.gov:443/esc/Pages/videoresults.aspx
+https://lmpublicsearch.lm.doe.gov:443/sitemap0.xml
+https://lmpublicsearch.lm.doe.gov:443/sitemap_mobile0.xml

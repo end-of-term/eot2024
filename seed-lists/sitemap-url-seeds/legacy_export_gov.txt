@@ -1,0 +1,12 @@
+https://legacy.export.gov/DefaultMDT
+https://legacy.export.gov/fta
+https://legacy.export.gov/fta/about-the-tool
+https://legacy.export.gov/fta/contact-us
+https://legacy.export.gov/fta/faqs
+https://legacy.export.gov/fta/user-guide
+https://legacy.export.gov/marketdiversification
+https://legacy.export.gov/marketdiversification/About-the-Tool
+https://legacy.export.gov/marketdiversification/Contact-Us
+https://legacy.export.gov/marketdiversification/FAQs
+https://legacy.export.gov/marketdiversification/How-to-Interpret-Your-Results
+https://legacy.export.gov/welcome
