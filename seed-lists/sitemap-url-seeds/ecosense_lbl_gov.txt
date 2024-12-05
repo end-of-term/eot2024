@@ -1,0 +1,8 @@
+http://ecosense.lbl.gov/author-sitemap.xml
+http://ecosense.lbl.gov/category-sitemap.xml
+http://ecosense.lbl.gov/page-sitemap.xml
+http://ecosense.lbl.gov/post-sitemap.xml
+https://ecosense.lbl.gov/
+https://ecosense.lbl.gov/2021/05/03/hello-world/
+https://ecosense.lbl.gov/author/jennynuss/
+https://ecosense.lbl.gov/category/uncategorized/
