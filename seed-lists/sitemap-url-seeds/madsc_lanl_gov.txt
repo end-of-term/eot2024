@@ -1,0 +1,61 @@
+http://madsc.lanl.gov
+http://madsc.lanl.gov/mads-applications.html
+http://madsc.lanl.gov/mads-comparisons.html
+http://madsc.lanl.gov/mads-demos.html
+http://madsc.lanl.gov/mads-download.html
+http://madsc.lanl.gov/mads-examples.html
+http://madsc.lanl.gov/mads-features.html
+http://madsc.lanl.gov/mads-info.html
+http://madsc.lanl.gov/mads-inquiries.html
+http://madsc.lanl.gov/mads-manual.html
+http://madsc.lanl.gov/mads-methods.html
+http://madsc.lanl.gov/mads-people.html
+http://madsc.lanl.gov/mads-research.html
+http://madsc.lanl.gov/mads-screenshots.html
+http://madsc.lanl.gov/papers/Alexandrov & Vesselinov 2014 Blind source separation for groundwater pressure analysis based on nonnegative matrix factorization.pdf
+http://madsc.lanl.gov/papers/Barajas et al 2015 Linear functional minimization for inverse modeling.pdf
+http://madsc.lanl.gov/papers/Freedman et al 2014 A high-performance workflow system for subsurface simulation.pdf
+http://madsc.lanl.gov/papers/Grasinger et al 2016 Decision analysis for robust CO2 injection: Application of Bayesian-Information-Gap Decision Theory.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2010 SERRA.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2010 gw.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2012 abagus.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2012 geosampler.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2013 Contaminant remediation decision analysis using information.pdf
+http://madsc.lanl.gov/papers/Harp & Vesselinov 2013 exp.pdf
+http://madsc.lanl.gov/papers/Harp &amp; Vesselinov ABAGUS 2011.pdf
+http://madsc.lanl.gov/papers/Harp &amp; Vesselinov infogap source 2011.pdf
+http://madsc.lanl.gov/papers/Harp et al 2008 GRL.pdf
+http://madsc.lanl.gov/papers/Lin OMalley Vesselinov 2016 A computationally efficient parallel Levenberg-Marquardt algorithm for highly parameterized inverse model analyses.pdf
+http://madsc.lanl.gov/papers/Lu Vesselinov 2015 Analytical sensitivity analysis of transient groundwater flow in a bounded model domain using the adjoint method.pdf
+http://madsc.lanl.gov/papers/Mattis et al 2015 Parameter estimation and prediction for groundwatercontamination based on measure theory.pdf
+http://madsc.lanl.gov/papers/Mishra & Vesselinov 2011 Unified Analytical Solution for Radial Flow to a Well in a Confined Aquifer.pdf
+http://madsc.lanl.gov/papers/Mishra et al 2012 Leaky-unconfined aquifer AWR.pdf
+http://madsc.lanl.gov/papers/Mishra et al 2012 Variable Rate GW.pdf
+http://madsc.lanl.gov/papers/Morales et al 2010 MLBA serra.pdf
+http://madsc.lanl.gov/papers/Morales_et_al_on_ALRS.pdf
+http://madsc.lanl.gov/papers/OMalley Vesselinov 2014 A Combined Probabilistic Nonprobabilistic Decision Analysis for Contaminant Remediation.pdf
+http://madsc.lanl.gov/papers/OMalley Vesselinov 2014 Analytical solutions for anomalous dispersion transport
+http://madsc.lanl.gov/papers/OMalley Vesselinov 2014 Groundwater remediation using the information gap decision theory.pdf
+http://madsc.lanl.gov/papers/OMalley Vesselinov 2015 Bayesian information gap decision theory with an application to CO2 sequestration.pdf
+http://madsc.lanl.gov/papers/OMalley Vesselinov Cushman 2014 A Method for Identifying Diffusive Trajectories with Stochastic Models.pdf
+http://madsc.lanl.gov/papers/OMalley Vesselinov Cushman 2015 Diffusive mixing and Tsallis entropy.pdf
+http://madsc.lanl.gov/papers/Vesselinov & Harp 2010 cmwr decision.pdf
+http://madsc.lanl.gov/papers/Vesselinov & Harp 2012 Adaptive hybrid optimization strategy for calibration and parameter estimation of physical process models.pdf
+http://madsc.lanl.gov/papers/Vesselinov 2004 Estimation of parameter uncertainty using inverse model sensitivities.pdf
+http://madsc.lanl.gov/papers/Vesselinov 2006 cmwr06 Uncertainties In Transient Capture-Zone Estimates.pdf
+http://madsc.lanl.gov/papers/Vesselinov et al 2012 Agni - coupling model analysis tools and high-performance subsurface flow and transport simulators for risk and performance assessments.pdf
+http://madsc.lanl.gov/papers/Vesselinov et al 2013 Data and Model-Driven Decision Support for Environmental Management of a Chromium Plume at Los Alamos National Laboratory.pdf
+http://madsc.lanl.gov/papers/Vrugt et al 2005 GRL.pdf
+http://madsc.lanl.gov/papers/Vrugt et al 2007 VZJ.pdf
+http://madsc.lanl.gov/papers/squads_v04.pdf
+http://madsc.lanl.gov/presentations/LA-UR-08-0655 agu08 hydro tomography 20090203.pdf
+http://madsc.lanl.gov/presentations/LA-UR-12-22187 agni cmwr 20120614.pdf
+http://madsc.lanl.gov/presentations/LANL EM Modeling 20100413.pdf
+http://madsc.lanl.gov/presentations/agu20130304mads_ascem_big_split.pdf
+http://madsc.lanl.gov/presentations/dharp_bb_2011_01.pdf
+http://madsc.lanl.gov/presentations/wmsym20130304splitanimations-LA-UR-13-21534.pdf
+http://madsc.lanl.gov/projects/explosives-detection/
+http://madsc.lanl.gov/reports/LA-UR-05-6397 Decision Analysis-GWContaminants020106.pdf
+http://madsc.lanl.gov/reports/LA-UR-08-4702-Fate&amp;Trans_Cr_Sandia_Jul08.pdf
+http://madsc.lanl.gov/reports/LA-UR-08-5852-Paj_Cyn_IR.pdf
+http://madsc.lanl.gov/resources/contacts.php

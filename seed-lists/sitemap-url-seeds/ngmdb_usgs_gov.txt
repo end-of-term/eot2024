@@ -1,0 +1,7 @@
+https://ngmdb.usgs.gov/Geolex/Units/
+https://ngmdb.usgs.gov/Geolex/stratres/
+https://ngmdb.usgs.gov/Info/dmt/
+https://ngmdb.usgs.gov/Info/partners.html
+https://ngmdb.usgs.gov/Info/reports/
+https://ngmdb.usgs.gov/Info/standards/
+https://ngmdb.usgs.gov/Prodesc/
