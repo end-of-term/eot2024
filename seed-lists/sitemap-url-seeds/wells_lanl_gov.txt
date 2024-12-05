@@ -1,0 +1,10 @@
+http://wells.lanl.gov/analytical.html
+http://wells.lanl.gov/applications.html
+http://wells.lanl.gov/confined.html
+http://wells.lanl.gov/contact_us.html
+http://wells.lanl.gov/downloads.html
+http://wells.lanl.gov/index.html
+http://wells.lanl.gov/leaky_confined.html
+http://wells.lanl.gov/leaky_unconfined.html
+http://wells.lanl.gov/links.html
+http://wells.lanl.gov/unconfined.html

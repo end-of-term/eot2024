@@ -1,0 +1,8 @@
+https://ehs.lbl.gov/wp-sitemap-posts-group-1.xml
+https://ehs.lbl.gov/wp-sitemap-posts-page-1.xml
+https://ehs.lbl.gov/wp-sitemap-posts-post-1.xml
+https://ehs.lbl.gov/wp-sitemap-posts-profile-1.xml
+https://ehs.lbl.gov/wp-sitemap-posts-resource-1.xml
+https://ehs.lbl.gov/wp-sitemap-posts-service-1.xml
+https://ehs.lbl.gov/wp-sitemap-taxonomies-category-1.xml
+https://ehs.lbl.gov/wp-sitemap-taxonomies-post_tag-1.xml

@@ -1,0 +1,4 @@
+https://webbook.nist.gov/sitemap_1.xml.gz
+https://webbook.nist.gov/sitemap_2.xml.gz
+https://webbook.nist.gov/sitemap_3.xml.gz
+https://webbook.nist.gov/sitemap_4.xml.gz
