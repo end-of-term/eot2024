@@ -1,0 +1,9 @@
+https://forestproducts.blm.gov/
+https://forestproducts.blm.gov/customer/permitselect?stateid=1&areaid=1
+https://forestproducts.blm.gov/customer/permitselect?stateid=2&areaid=2
+https://forestproducts.blm.gov/customer/permitselect?stateid=3&areaid=3
+https://forestproducts.blm.gov/customer/permitselect?stateid=3&areaid=4
+https://forestproducts.blm.gov/customer/permitselect?stateid=3&areaid=5
+https://forestproducts.blm.gov/customer/permitselect?stateid=3&areaid=6
+https://forestproducts.blm.gov/customer/permitselect?stateid=4&areaid=7
+https://forestproducts.blm.gov/customer/permitselect?stateid=5&areaid=8
