@@ -1,0 +1,7 @@
+https://pre.militaryonesource.mil/benefit-sitemap.xml
+https://pre.militaryonesource.mil/category-sitemap.xml
+https://pre.militaryonesource.mil/mos-leaderships-sitemap.xml
+https://pre.militaryonesource.mil/mos-products-sitemap.xml
+https://pre.militaryonesource.mil/page-sitemap.xml
+https://pre.militaryonesource.mil/post-sitemap.xml
+https://pre.militaryonesource.mil/resource-sitemap.xml
