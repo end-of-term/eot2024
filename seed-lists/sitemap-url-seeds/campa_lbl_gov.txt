@@ -1,0 +1,14 @@
+https://campa.lbl.gov/
+https://campa.lbl.gov/2016/08/05/hello-world/
+https://campa.lbl.gov/about-campa/
+https://campa.lbl.gov/campa-algorithms/
+https://campa.lbl.gov/campa-related-efforts-in-the-news/
+https://campa.lbl.gov/category/uncategorized/
+https://campa.lbl.gov/codes/
+https://campa.lbl.gov/partnering/
+https://campa.lbl.gov/publications/
+https://campa.lbl.gov/scidac5/
+https://campa.lbl.gov/wp-sitemap-posts-page-1.xml
+https://campa.lbl.gov/wp-sitemap-posts-post-1.xml
+https://campa.lbl.gov/wp-sitemap-taxonomies-category-1.xml
+https://campa.lbl.gov/wp-sitemap-users-1.xml

@@ -1,0 +1,7 @@
+https://www.schmitt.senate.gov/e-landing-page-sitemap.xml
+https://www.schmitt.senate.gov/in_the_news-sitemap.xml
+https://www.schmitt.senate.gov/jet-popup-sitemap.xml
+https://www.schmitt.senate.gov/page-sitemap.xml
+https://www.schmitt.senate.gov/photos-sitemap.xml
+https://www.schmitt.senate.gov/press_releases-sitemap.xml
+https://www.schmitt.senate.gov/udb_admin_page-sitemap.xml

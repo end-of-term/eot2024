@@ -1,0 +1,10 @@
+http://localhost:3000/
+http://localhost:3000/dev/feature-flags
+http://localhost:3000/health
+http://localhost:3000/opportunity/1
+http://localhost:3000/process
+http://localhost:3000/research
+http://localhost:3000/search
+http://localhost:3000/subscribe
+http://localhost:3000/subscribe/confirmation
+http://localhost:3000/subscribe/unsubscribe

@@ -1,0 +1,3 @@
+https://etd.gsfc.nasa.gov/cpt_staff_lst-sitemap.xml
+https://etd.gsfc.nasa.gov/page-sitemap.xml
+https://etd.gsfc.nasa.gov/post-sitemap.xml

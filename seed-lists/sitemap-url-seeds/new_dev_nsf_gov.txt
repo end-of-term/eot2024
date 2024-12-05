@@ -1,0 +1,12 @@
+https://www.dev.nsf.gov/sitemap.xml?page=1
+https://www.dev.nsf.gov/sitemap.xml?page=10
+https://www.dev.nsf.gov/sitemap.xml?page=11
+https://www.dev.nsf.gov/sitemap.xml?page=12
+https://www.dev.nsf.gov/sitemap.xml?page=2
+https://www.dev.nsf.gov/sitemap.xml?page=3
+https://www.dev.nsf.gov/sitemap.xml?page=4
+https://www.dev.nsf.gov/sitemap.xml?page=5
+https://www.dev.nsf.gov/sitemap.xml?page=6
+https://www.dev.nsf.gov/sitemap.xml?page=7
+https://www.dev.nsf.gov/sitemap.xml?page=8
+https://www.dev.nsf.gov/sitemap.xml?page=9

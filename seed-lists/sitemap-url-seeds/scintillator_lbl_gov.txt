@@ -1,0 +1,11 @@
+https://scintillator.lbl.gov/
+https://scintillator.lbl.gov/ej-200-bc-408-pilot-f-quenching-data/
+https://scintillator.lbl.gov/ej-204-bc-404-ne-104-quenching-data/
+https://scintillator.lbl.gov/ej-208-bc-400-ne-110-quenching-data/
+https://scintillator.lbl.gov/ej-20x-bc-40x-and-ne-110-quenching-data/
+https://scintillator.lbl.gov/ej-212-bc-400-ne-102a/
+https://scintillator.lbl.gov/ej-309-proton-light-yield-data/
+https://scintillator.lbl.gov/inorganic-scintillator-library/
+https://scintillator.lbl.gov/organic-scintillator-library/
+https://scintillator.lbl.gov/posts/
+https://scintillator.lbl.gov/wp-sitemap-posts-page-1.xml

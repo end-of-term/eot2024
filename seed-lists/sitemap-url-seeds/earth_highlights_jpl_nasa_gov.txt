@@ -1,0 +1,5 @@
+https://earth-highlights.jpl.nasa.gov
+https://earth-highlights.jpl.nasa.gov/index.php
+https://earth-highlights.jpl.nasa.gov/notifications.php
+https://earth-highlights.jpl.nasa.gov/searchhighlight.php
+https://earth-highlights.jpl.nasa.gov/template.php

@@ -1,0 +1,3 @@
+https://c5isrcenter.devcom.army.mil/?wpr_templates=user-header-header
+https://c5isrcenter.devcom.army.mil/page-sitemap.xml
+https://c5isrcenter.devcom.army.mil/wpr_templates-sitemap.xml

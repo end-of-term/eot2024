@@ -1,0 +1,16 @@
+https://data.census.gov/sitemaps/sitemap_basics.xml.gz
+https://data.census.gov/sitemaps/sitemap_mdat.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_010.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_040.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_050.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_060.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_250.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_500.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_860.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_860.part2.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_860.part3.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_950.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_960.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_970.part1.xml.gz
+https://data.census.gov/sitemaps/sitemap_profiles_970.part2.xml.gz
+https://data.census.gov/sitemaps/sitemap_tables.xml.gz

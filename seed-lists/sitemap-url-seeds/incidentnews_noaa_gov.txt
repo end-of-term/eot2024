@@ -1,0 +1,4 @@
+https://incidentnews.noaa.gov/sm/incidents.xml
+https://incidentnews.noaa.gov/sm/pages.xml
+https://incidentnews.noaa.gov/sm/posts1.xml
+https://incidentnews.noaa.gov/sm/site.xml

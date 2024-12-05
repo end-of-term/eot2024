@@ -1,0 +1,5 @@
+http://default/sitemap.xml?page=1
+http://default/sitemap.xml?page=2
+http://default/sitemap.xml?page=3
+http://default/sitemap.xml?page=4
+http://default/sitemap.xml?page=5

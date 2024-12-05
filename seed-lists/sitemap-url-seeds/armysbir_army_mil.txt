@@ -1,0 +1,14 @@
+https://www.armysbir.army.mil/wp-sitemap-posts-announcement-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-astra-advanced-hook-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-faq-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-news-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-page-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-technologies-home-1.xml
+https://www.armysbir.army.mil/wp-sitemap-posts-topics-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-announcement_category-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-faq-group-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-news_categories-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-phases-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-program-1.xml
+https://www.armysbir.army.mil/wp-sitemap-taxonomies-technologies-1.xml
+https://www.armysbir.army.mil/wp-sitemap-users-1.xml

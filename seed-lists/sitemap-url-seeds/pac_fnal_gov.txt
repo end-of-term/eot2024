@@ -1,0 +1,5 @@
+https://pac.fnal.gov/
+https://pac.fnal.gov/lbnc/
+https://pac.fnal.gov/meetings/
+https://pac.fnal.gov/members/
+https://pac.fnal.gov/wp-sitemap-posts-page-1.xml
