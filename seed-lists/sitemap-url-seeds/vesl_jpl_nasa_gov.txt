@@ -1,0 +1,14 @@
+http://vesl.jpl.nasa.gov/
+http://vesl.jpl.nasa.gov/education/
+http://vesl.jpl.nasa.gov/games/
+http://vesl.jpl.nasa.gov/glaciers/
+http://vesl.jpl.nasa.gov/glaciers/columbia/
+http://vesl.jpl.nasa.gov/haig/
+http://vesl.jpl.nasa.gov/ice-sheets/
+http://vesl.jpl.nasa.gov/ice-sheets/giscui/
+http://vesl.jpl.nasa.gov/research/solid-earth/
+http://vesl.jpl.nasa.gov/research/solid-earth/gisgeo/
+http://vesl.jpl.nasa.gov/sea-level/
+http://vesl.jpl.nasa.gov/sea-level/slr-eustatic/
+http://vesl.jpl.nasa.gov/sea-level/slr-gfm/
+http://vesl.jpl.nasa.gov/sea-level/slr-gravity/

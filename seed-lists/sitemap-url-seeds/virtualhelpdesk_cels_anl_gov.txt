@@ -1,0 +1,6 @@
+https://help.cels.anl.gov/wp-sitemap-posts-docs-1.xml
+https://help.cels.anl.gov/wp-sitemap-posts-page-1.xml
+https://help.cels.anl.gov/wp-sitemap-posts-post-1.xml
+https://help.cels.anl.gov/wp-sitemap-taxonomies-category-1.xml
+https://help.cels.anl.gov/wp-sitemap-taxonomies-doc_tag-1.xml
+https://help.cels.anl.gov/wp-sitemap-taxonomies-post_tag-1.xml

@@ -1,0 +1,7 @@
+https://testbeds.noaa.gov/
+https://testbeds.noaa.gov/404-error/
+https://testbeds.noaa.gov/announcements/
+https://testbeds.noaa.gov/committee/
+https://testbeds.noaa.gov/events/
+https://testbeds.noaa.gov/page-sitemap.xml
+https://testbeds.noaa.gov/spg-liaisons/

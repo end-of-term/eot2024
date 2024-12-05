@@ -1,0 +1,9 @@
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=1
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=2
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=3
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=4
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=5
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=6
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=7
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=8
+https://bjs.uat-ojp.acsitefactory.com/sitemap.xml?page=9
