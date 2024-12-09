@@ -76,6 +76,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 ### Seeds submitted to eot-info@archive.org
 
 * Federal URLs linked to on EnergyFundsForAll.org.xlsx - Submitted by Sally Robertson, EnergyFundsForAll.org
+* NPS seeds submitted by Hermann-Wu - Hermann-Wu-nps-20241209.txt
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
