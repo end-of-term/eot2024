@@ -1,0 +1,2 @@
+https://mfc.inl.gov:443/sitemap0.xml
+https://mfc.inl.gov:443/sitemap_mobile0.xml

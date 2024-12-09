@@ -1,0 +1,6 @@
+https://ascr-discovery.org/author-sitemap.xml
+https://ascr-discovery.org/category-sitemap.xml
+https://ascr-discovery.org/page-sitemap.xml
+https://ascr-discovery.org/post-sitemap.xml
+https://ascr-discovery.org/post_tag-sitemap.xml
+https://ascr-discovery.org/science_highlight-sitemap.xml

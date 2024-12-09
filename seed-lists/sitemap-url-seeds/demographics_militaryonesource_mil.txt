@@ -1,0 +1,4 @@
+https://demographics.militaryonesource.mil/wp-sitemap-posts-page-1.xml
+https://demographics.militaryonesource.mil/wp-sitemap-posts-post-1.xml
+https://demographics.militaryonesource.mil/wp-sitemap-taxonomies-category-1.xml
+https://demographics.militaryonesource.mil/wp-sitemap-users-1.xml

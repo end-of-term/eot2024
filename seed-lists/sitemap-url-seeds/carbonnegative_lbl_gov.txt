@@ -1,0 +1,7 @@
+http://carbonnegative.lbl.gov/author-sitemap.xml
+http://carbonnegative.lbl.gov/category-sitemap.xml
+http://carbonnegative.lbl.gov/page-sitemap.xml
+http://carbonnegative.lbl.gov/post-sitemap.xml
+https://carbonnegative.lbl.gov/
+https://carbonnegative.lbl.gov/author/jennynuss/
+https://carbonnegative.lbl.gov/category/article/

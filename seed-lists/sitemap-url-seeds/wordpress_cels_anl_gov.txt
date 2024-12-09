@@ -1,0 +1,3 @@
+https://wordpress.cels.anl.gov/
+https://wordpress.cels.anl.gov/candle/
+https://wordpress.cels.anl.gov/wp-sitemap-posts-page-1.xml

@@ -1,0 +1,8 @@
+https://genesis.jpl.nasa.gov/
+https://genesis.jpl.nasa.gov/background/
+https://genesis.jpl.nasa.gov/data/
+https://genesis.jpl.nasa.gov/data/agape/
+https://genesis.jpl.nasa.gov/data/ftp/
+https://genesis.jpl.nasa.gov/missions/
+https://genesis.jpl.nasa.gov/news/
+https://genesis.jpl.nasa.gov/publications/

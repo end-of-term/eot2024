@@ -1,0 +1,9 @@
+https://als.lbl.gov/als_beamline_detail-sitemap.xml
+https://als.lbl.gov/author-sitemap.xml
+https://als.lbl.gov/category-sitemap.xml
+https://als.lbl.gov/page-sitemap.xml
+https://als.lbl.gov/post-sitemap.xml
+https://als.lbl.gov/post-sitemap2.xml
+https://als.lbl.gov/post_format-sitemap.xml
+https://als.lbl.gov/post_tag-sitemap.xml
+https://als.lbl.gov/profile-sitemap.xml

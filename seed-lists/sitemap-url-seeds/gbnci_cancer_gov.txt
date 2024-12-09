@@ -1,0 +1,5 @@
+https://gbnci.cancer.gov/agilent/
+https://gbnci.cancer.gov/backup/
+https://gbnci.cancer.gov/fileman/
+https://gbnci.cancer.gov/geo/
+https://gbnci.cancer.gov/sra/

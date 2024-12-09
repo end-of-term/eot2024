@@ -1,0 +1,16 @@
+https://energyicsstandards.inl.gov/
+https://energyicsstandards.inl.gov/cyote/
+https://energyicsstandards.inl.gov/cyote/bam/
+https://energyicsstandards.inl.gov/cyote/catch/
+https://energyicsstandards.inl.gov/cyote/executivedashboard/
+https://energyicsstandards.inl.gov/cyote/optic/
+https://energyicsstandards.inl.gov/cyote/practitioners/
+https://energyicsstandards.inl.gov/cyote/privacy-and-accessibility/
+https://energyicsstandards.inl.gov/cytrics/
+https://energyicsstandards.inl.gov/cytrics/highlights/
+https://energyicsstandards.inl.gov/highlights/
+https://energyicsstandards.inl.gov/otdefender/
+https://energyicsstandards.inl.gov/otdefender/highlights/
+https://energyicsstandards.inl.gov/page-sitemap.xml
+https://energyicsstandards.inl.gov/sbom/
+https://energyicsstandards.inl.gov/secureenergy/

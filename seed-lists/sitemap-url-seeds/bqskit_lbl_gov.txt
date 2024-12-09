@@ -1,0 +1,15 @@
+https://bqskit.lbl.gov/
+https://bqskit.lbl.gov/about-us/
+https://bqskit.lbl.gov/documentation/
+https://bqskit.lbl.gov/projects/
+https://bqskit.lbl.gov/projects/fixed-depth-synthesis/
+https://bqskit.lbl.gov/projects/qfast-quantum-fast-approximate-synthesis-tool/
+https://bqskit.lbl.gov/projects/qgo-quantum-global-optimizer-partitioning/
+https://bqskit.lbl.gov/projects/qsearch-quantum-search-compiler/
+https://bqskit.lbl.gov/publications/
+https://bqskit.lbl.gov/sample-page/
+https://bqskit.lbl.gov/software/
+https://bqskit.lbl.gov/software/circuit-parameter-optimization/
+https://bqskit.lbl.gov/software/gate-synthesis/
+https://bqskit.lbl.gov/software/global-circuit-optimization/
+https://bqskit.lbl.gov/wp-sitemap-posts-page-1.xml

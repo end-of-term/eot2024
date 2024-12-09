@@ -1,0 +1,8 @@
+https://www.britt.senate.gov/e-landing-page-sitemap.xml
+https://www.britt.senate.gov/in_the_news-sitemap.xml
+https://www.britt.senate.gov/jet-popup-sitemap.xml
+https://www.britt.senate.gov/op_eds-sitemap.xml
+https://www.britt.senate.gov/page-sitemap.xml
+https://www.britt.senate.gov/press_releases-sitemap.xml
+https://www.britt.senate.gov/priorities-sitemap.xml
+https://www.britt.senate.gov/udb_admin_page-sitemap.xml

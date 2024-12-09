@@ -1,0 +1,4 @@
+https://inside.nssl.noaa.gov/wp-sitemap-posts-page-1.xml
+https://inside.nssl.noaa.gov/wp-sitemap-posts-post-1.xml
+https://inside.nssl.noaa.gov/wp-sitemap-taxonomies-category-1.xml
+https://inside.nssl.noaa.gov/wp-sitemap-taxonomies-post_tag-1.xml

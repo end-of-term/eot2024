@@ -1,0 +1,6 @@
+https://dml.msfc.nasa.gov/en
+https://dml.msfc.nasa.gov/search
+https://dml.msfc.nasa.gov/search-cancelled
+https://dml.msfc.nasa.gov/sitemap.xml?p_l_id=2&layoutUuid=64c9314d-8413-99c3-96f1-096ee2fea90a&groupId=20124&privateLayout=false
+https://dml.msfc.nasa.gov/sitemap.xml?p_l_id=20&layoutUuid=dfbb0b3a-48b9-46d3-0ef9-8948135f640b&groupId=20124&privateLayout=false
+https://dml.msfc.nasa.gov/sitemap.xml?p_l_id=6&layoutUuid=fb85ed54-8a3d-62e4-74f0-b22d3fb2db58&groupId=20124&privateLayout=false

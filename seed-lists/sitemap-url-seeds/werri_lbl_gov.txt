@@ -1,0 +1,8 @@
+https://www.werri.lbl.gov/wp-sitemap-posts-page-1.xml
+https://www.werri.lbl.gov/wp-sitemap-posts-portfolio-1.xml
+https://www.werri.lbl.gov/wp-sitemap-posts-post-1.xml
+https://www.werri.lbl.gov/wp-sitemap-taxonomies-category-1.xml
+https://www.werri.lbl.gov/wp-sitemap-taxonomies-portfolio_entries-1.xml
+https://www.werri.lbl.gov/wp-sitemap-taxonomies-post_format-1.xml
+https://www.werri.lbl.gov/wp-sitemap-taxonomies-post_tag-1.xml
+https://www.werri.lbl.gov/wp-sitemap-users-1.xml

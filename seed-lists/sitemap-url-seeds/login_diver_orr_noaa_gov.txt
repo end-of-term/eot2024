@@ -1,0 +1,15 @@
+https://login.diver.orr.noaa.gov
+https://login.diver.orr.noaa.gov/ca/search
+https://login.diver.orr.noaa.gov/de/search
+https://login.diver.orr.noaa.gov/es/search
+https://login.diver.orr.noaa.gov/fi/search
+https://login.diver.orr.noaa.gov/fr/search
+https://login.diver.orr.noaa.gov/hu/search
+https://login.diver.orr.noaa.gov/iw/search
+https://login.diver.orr.noaa.gov/ja/search
+https://login.diver.orr.noaa.gov/nl/search
+https://login.diver.orr.noaa.gov/pt/search
+https://login.diver.orr.noaa.gov/search
+https://login.diver.orr.noaa.gov/sitemap.xml?p_l_id=20235&layoutUuid=91653e9d-86d9-f784-8e54-44dc1aaf80f5&groupId=20232&privateLayout=false
+https://login.diver.orr.noaa.gov/sitemap.xml?p_l_id=4614465&layoutUuid=a8562fe5-4f9b-e91f-5b4f-f0e5d48bce84&groupId=20232&privateLayout=false
+https://login.diver.orr.noaa.gov/zh/search

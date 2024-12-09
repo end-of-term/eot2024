@@ -1,0 +1,17 @@
+https://hpcic.llnl.gov/
+https://hpcic.llnl.gov/guides
+https://hpcic.llnl.gov/guides/articles
+https://hpcic.llnl.gov/guides/articles-old
+https://hpcic.llnl.gov/guides/articles/convergence-cloud-computing-hpc
+https://hpcic.llnl.gov/guides/articles/how-resource-workflow-managers-optimize-your-codes-runtime-cloned
+https://hpcic.llnl.gov/guides/articles/managing-heterogeneous-memory-resources
+https://hpcic.llnl.gov/guides/articles/running-containers-hpc
+https://hpcic.llnl.gov/guides/articles/why-performance-portability-matters-hpc-ecosystems
+https://hpcic.llnl.gov/guides/articles/why-portability-matters-hpc-ecosystems-cloned
+https://hpcic.llnl.gov/guides/getting-started
+https://hpcic.llnl.gov/guides/walkthroughs-alt
+https://hpcic.llnl.gov/guides/walkthroughs-old
+https://hpcic.llnl.gov/home
+https://hpcic.llnl.gov/partnerships
+https://hpcic.llnl.gov/tutorials
+https://hpcic.llnl.gov/tutorials/2024-hpc-tutorials

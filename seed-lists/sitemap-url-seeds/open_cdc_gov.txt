@@ -1,0 +1,9 @@
+https://open.cdcgov/
+https://open.cdcgov/about.html
+https://open.cdcgov/apis.html
+https://open.cdcgov/change.html
+https://open.cdcgov/code.html
+https://open.cdcgov/data.html
+https://open.cdcgov/events.html
+https://open.cdcgov/events/hackathon-2018.html
+https://open.cdcgov/search.html

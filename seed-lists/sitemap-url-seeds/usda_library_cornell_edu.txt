@@ -1,0 +1,5 @@
+https://usda.library.cornell.edu
+https://usda.library.cornell.edu/about
+https://usda.library.cornell.edu/apidoc/index.html
+https://usda.library.cornell.edu/contact
+https://usda.library.cornell.edu/help

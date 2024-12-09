@@ -1,0 +1,8 @@
+http://smartsoils.lbl.gov/author-sitemap.xml
+http://smartsoils.lbl.gov/category-sitemap.xml
+http://smartsoils.lbl.gov/page-sitemap.xml
+http://smartsoils.lbl.gov/post-sitemap.xml
+https://smartsoils.lbl.gov/
+https://smartsoils.lbl.gov/2021/05/03/hello-world/
+https://smartsoils.lbl.gov/author/jennynuss/
+https://smartsoils.lbl.gov/category/uncategorized/
