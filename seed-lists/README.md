@@ -73,6 +73,11 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * govspeakurls1124.txt - updated list of govspeak links, about 250 new items added since the August list; also, CDC, ED, and a couple other agencies have done significant reorganization of their websites since then
 *  eot_lgbtqandmisc.txt - 4300+ urls for the EOT project. Most of these were identified by the small group working on lgbtq+ pages and some others from my libguide pages -- the Roe v. Wade links, a lot of the stats/data sites from the Data Is Plural federal list, weekly roundups
 
+
+### Seeds submitted to eot-info@archive.org
+
+* Submitted by Sally Robertson, EnergyFundsForAll.org. Federal URLs linked to on EnergyFundsForAll.org.xlsx
+
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
 
