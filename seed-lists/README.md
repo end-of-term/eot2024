@@ -63,7 +63,7 @@ Seeds supplied by James Jacobs of Stanford University Libraries:
 
 * FOIA_Libraries_Dataset_Oct_3_2023_Final.xlsx - spreadsheet with seeds for all of the federal FOIA libraries. Lisa DeLuca, who collated the list, said it would be fine to use her spreadsheet from https://works.bepress.com/lisa_deluca/59/.
 * govdoc-l-seeds-2024.txt - seeds from documents/sites recommended on the govdoc-l Listserv 2020 - 2024.
-* Infodocket-11-21-2024.xls - from Gary Price. 
+* Infodocket-11-21-2024.xls - from Gary Price.
 
 ### University of California San Diego seeds
 Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian for Urban Studies & Planning / Environmental Studies at UC San Diego Library (via James Jacobs):
@@ -71,12 +71,12 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * govspeakeot080124.xlsx - list of all the live URLs from Smith's [GovSpeak acronym and abbreviation guide](https://ucsd.libguides.com/govspeak/home).
 * RoundupListsforEOT.txt
 * govspeakurls1124.txt - updated list of govspeak links, about 250 new items added since the August list; also, CDC, ED, and a couple other agencies have done significant reorganization of their websites since then
-*  eot_lgbtqandmisc.txt - 4300+ urls for the EOT project. Most of these were identified by the small group working on lgbtq+ pages and some others from my libguide pages -- the Roe v. Wade links, a lot of the stats/data sites from the Data Is Plural federal list, weekly roundups
+* eot_lgbtqandmisc.txt - 4300+ urls for the EOT project. Most of these were identified by the small group working on lgbtq+ pages and some others from my libguide pages -- the Roe v. Wade links, a lot of the stats/data sites from the Data Is Plural federal list, weekly roundups
 
 
 ### Seeds submitted to eot-info@archive.org
 
-* Submitted by Sally Robertson, EnergyFundsForAll.org. Federal URLs linked to on EnergyFundsForAll.org.xlsx
+* Federal URLs linked to on EnergyFundsForAll.org.xlsx - Submitted by Sally Robertson, EnergyFundsForAll.org
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
