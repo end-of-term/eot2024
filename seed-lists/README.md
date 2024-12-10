@@ -76,7 +76,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 ### Seeds submitted to eot-info@archive.org
 
 * Federal URLs linked to on EnergyFundsForAll.org.xlsx - Submitted by Sally Robertson, EnergyFundsForAll.org
-* NPS seeds submitted by Hermann-Wu - Hermann-Wu-nps-20241209.txt
+* Hermann-Wu-nps-20241209.txt - NPS seeds submitted by Hermann-Wu
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team compiled a list of sources on the Web from which to source seeds:
@@ -90,3 +90,4 @@ The End of Term Web Archive team compiled a list of sources on the Web from whic
 * 2_govt_urls_federal_only.csv - Pulled from [GSA's govt-urls repo](https://github.com/GSA/govt-urls/) (via https://raw.githubusercontent.com/GSA/govt-urls/main/2_govt_urls_federal_only.csv on 9/12/2024). The README indicates the repo "contains the list of public government managed domains that exist outside of the top-level .gov and .mil domains."
 * usagov.csv - Seeds scraped from https://www.usa.gov/agency-index/ by Jake Abrams, Founder, CivicsUS, LLC.
 * CDC html URLs from sitemap data - 20241201.csv - file of about 46,000 .html URLs created by parsing the CDC's sitemap file at https://www.cdc.gov/wcms-auto-sitemap-index.xml, which then pointed to other sitemaps, which  pointed to .html files.
+* CDC found PDFs 20241209 cleaned single file.csv - .gov PDF links obtained from webpages found on the US CDC website. It contains 46,873 links, with the format: the source HTML file containing the PDF link; the time in UTC in which the accessibility of the PDF file was confirmed; and a URL pointing to the PDF file itself. PDF links are deduped when multiple pages point to the same PDF, and link fragments are removed. All the PDF files have had their accessibility and content type verified with a HTTP HEAD request on Dec. 09 2024.
