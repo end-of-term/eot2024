@@ -1,0 +1,12 @@
+http://gmf.lbl.gov/author-sitemap.xml
+http://gmf.lbl.gov/category-sitemap.xml
+http://gmf.lbl.gov/page-sitemap.xml
+http://gmf.lbl.gov/post-sitemap.xml
+https://gmf.lbl.gov/
+https://gmf.lbl.gov/2018/10/17/hello-world/
+https://gmf.lbl.gov/about/
+https://gmf.lbl.gov/author/pklau/
+https://gmf.lbl.gov/category/uncategorized/
+https://gmf.lbl.gov/contact/
+https://gmf.lbl.gov/history/
+https://gmf.lbl.gov/solutions/

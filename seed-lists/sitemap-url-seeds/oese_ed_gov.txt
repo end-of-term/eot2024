@@ -1,0 +1,2 @@
+http://vpvmwevapp001.azurewebsites.net/sitemap.xml?page=1
+http://vpvmwevapp001.azurewebsites.net/sitemap.xml?page=2

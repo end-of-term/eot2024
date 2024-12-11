@@ -1,0 +1,12 @@
+https://forms.office.com/Pages/DesignPageV2.aspx
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=creationv2&omkt=en-us&tryout=true&linkorigin=SiteMap
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM11316740&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=CompetitiveAnalysis
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM11682471&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=SatisfactionSurvey
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM22812001&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=VacationSickForm
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM23144395&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=EventFeedback
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM45304347&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=RegistrationForm
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM78360963&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=RequestForm
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&action=CreateByTemplate&templateid=TM89038875&omkt=en-us&tryout=true&linkorigin=SiteMap&contentsource=Invitation
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&omkt=en-us&tryout=true&linkorigin=SiteMap
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=templatesall&omkt=en-us&tryout=true&linkorigin=SiteMap
+https://support.office.com/en-us/forms

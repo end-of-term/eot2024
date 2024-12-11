@@ -1,0 +1,4 @@
+https://laser-research.lbl.gov/author-sitemap.xml
+https://laser-research.lbl.gov/category-sitemap.xml
+https://laser-research.lbl.gov/page-sitemap.xml
+https://laser-research.lbl.gov/post-sitemap.xml

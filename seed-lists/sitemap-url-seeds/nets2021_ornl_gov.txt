@@ -1,0 +1,12 @@
+https://nets2021.ornl.gov/./2019/10/22/hello-world/index.html
+https://nets2021.ornl.gov/./author-sitemap.xml
+https://nets2021.ornl.gov/./author/de8/index.html
+https://nets2021.ornl.gov/./category-sitemap.xml
+https://nets2021.ornl.gov/./category/uncategorized/index.html
+https://nets2021.ornl.gov/./hotel-venue/index.html
+https://nets2021.ornl.gov/./index.html
+https://nets2021.ornl.gov/./page-sitemap.xml
+https://nets2021.ornl.gov/./planning-committee/index.html
+https://nets2021.ornl.gov/./post-sitemap.xml
+https://nets2021.ornl.gov/./proceedings/index.html
+https://nets2021.ornl.gov/./sponsorship/index.html

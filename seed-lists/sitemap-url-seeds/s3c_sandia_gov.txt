@@ -1,0 +1,7 @@
+https://s3c.sandia.gov/
+https://s3c.sandia.gov/committee/
+https://s3c.sandia.gov/header/
+https://s3c.sandia.gov/tag/day-1/
+https://s3c.sandia.gov/tag/day-2/
+https://s3c.sandia.gov/tag/day-3/
+https://s3c.sandia.gov/themes-clone/

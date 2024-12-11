@@ -1,0 +1,17 @@
+https://rom.sandia.gov/
+https://rom.sandia.gov/2022/01/10/a-tailored-convolutional-neural-network-for-nonlinear-manifold-learning-of-computational-physics-data-using-unstructured-spatial-discretizations/
+https://rom.sandia.gov/2022/03/09/postdoctoral-appointee-in-computational-science-for-reduced-order-and-or-surrogate-modeling/
+https://rom.sandia.gov/2022/03/10/a-compute-bound-formulation-of-galerkin-model-reduction-for-linear-time-invariant-dynamical-systems/
+https://rom.sandia.gov/2022/03/10/efficient-sampling-methods-for-machine-learning-error-models-with-application-to-surrogates-of-steady-hypersonic-flows/
+https://rom.sandia.gov/2022/03/10/model-reduction-of-hypersonic-aerodynamics-with-residual-minimization-techniques/
+https://rom.sandia.gov/2022/03/10/projection-based-model-reduction-for-coupled-conduction-enclosure-radiation-systems/
+https://rom.sandia.gov/all-posts/
+https://rom.sandia.gov/category/conference/
+https://rom.sandia.gov/category/jobposting/
+https://rom.sandia.gov/category/journal/
+https://rom.sandia.gov/category/uncategorized/
+https://rom.sandia.gov/contact/
+https://rom.sandia.gov/opportunities/
+https://rom.sandia.gov/pubs/
+https://rom.sandia.gov/software/
+https://rom.sandia.gov/upcoming-talks/

@@ -1,0 +1,8 @@
+https://tesseract.lbl.gov/
+https://tesseract.lbl.gov/detectors/
+https://tesseract.lbl.gov/herald/
+https://tesseract.lbl.gov/presentations/
+https://tesseract.lbl.gov/publications/
+https://tesseract.lbl.gov/sample-page/
+https://tesseract.lbl.gov/team/
+https://tesseract.lbl.gov/wp-sitemap-posts-page-1.xml

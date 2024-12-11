@@ -1,0 +1,3 @@
+https://mars.nasa.gov/sitemaps/content_pages_sitemap.xml
+https://mars.nasa.gov/sitemaps/news_items_sitemap.xml
+https://mars.nasa.gov/sitemaps/resources_sitemap.xml

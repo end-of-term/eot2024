@@ -1,0 +1,8 @@
+https://www.boulder.noaa.gov/authoring-institution-sitemap.xml
+https://www.boulder.noaa.gov/grade-level-sitemap.xml
+https://www.boulder.noaa.gov/page-sitemap.xml
+https://www.boulder.noaa.gov/resource-format-sitemap.xml
+https://www.boulder.noaa.gov/resource-sitemap.xml
+https://www.boulder.noaa.gov/subject-sitemap.xml
+https://www.boulder.noaa.gov/video-sitemap.xml
+https://www.boulder.noaa.gov/video-topic-sitemap.xml

@@ -1,0 +1,2 @@
+https://nesdis.noaa.mobomo.net/sitemap.xml?page=1
+https://nesdis.noaa.mobomo.net/sitemap.xml?page=2

@@ -1,0 +1,9 @@
+http://webservices-dev/dev/coral_build/
+http://webservices-dev/dev/coral_build/?page=about_coral
+http://webservices-dev/dev/coral_build/?page=coral_news
+http://webservices-dev/dev/coral_build/?page=data_products
+http://webservices-dev/dev/coral_build/?page=flight_information
+http://webservices-dev/dev/coral_build/?page=instrument_technology
+http://webservices-dev/dev/coral_build/?page=multimedia
+http://webservices-dev/dev/coral_build/?page=publications
+http://webservices-dev/dev/coral_build/?page=team

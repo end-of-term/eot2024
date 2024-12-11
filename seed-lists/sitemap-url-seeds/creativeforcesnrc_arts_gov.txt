@@ -1,0 +1,14 @@
+https://www.creativeforcesnrc.arts.gov/format-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/grant-tier-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/impact-category-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/impact-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/news-category-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/news-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/organization-type-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/page-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/person-category-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/post_tag-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/project-tag-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/resource-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/resources-category-sitemap.xml
+https://www.creativeforcesnrc.arts.gov/target-audience-sitemap.xml

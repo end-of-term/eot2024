@@ -1,0 +1,2 @@
+https://www.socom.mil:443/sitemap0.xml
+https://www.socom.mil:443/sitemap_mobile0.xml

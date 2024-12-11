@@ -1,0 +1,12 @@
+https://www.ricketts.senate.gov/author-sitemap.xml
+https://www.ricketts.senate.gov/category-sitemap.xml
+https://www.ricketts.senate.gov/e-landing-page-sitemap.xml
+https://www.ricketts.senate.gov/in_the_news-sitemap.xml
+https://www.ricketts.senate.gov/jet-popup-sitemap.xml
+https://www.ricketts.senate.gov/page-sitemap.xml
+https://www.ricketts.senate.gov/photos-sitemap.xml
+https://www.ricketts.senate.gov/post-sitemap.xml
+https://www.ricketts.senate.gov/press_releases-sitemap.xml
+https://www.ricketts.senate.gov/priorities-sitemap.xml
+https://www.ricketts.senate.gov/udb_admin_page-sitemap.xml
+https://www.ricketts.senate.gov/weekly_column-sitemap.xml

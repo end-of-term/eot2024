@@ -1,0 +1,10 @@
+https://oceans.pmel.noaa.gov/
+https://oceans.pmel.noaa.gov/access-denied
+https://oceans.pmel.noaa.gov/links
+https://oceans.pmel.noaa.gov/ocean-heat-content-publications
+https://oceans.pmel.noaa.gov/page-not-found
+https://oceans.pmel.noaa.gov/pmel-theme/time-series-global-upper-ocean-heat-content-anomaly
+https://oceans.pmel.noaa.gov/upper-ocean-heat-content-anomaly
+https://oceans.pmel.noaa.gov/upper-ocean-heat-content-data
+https://oceans.pmel.noaa.gov/upper-ocean-heat-content-news
+https://oceans.pmel.noaa.gov/upper-ocean-heat-content-plots

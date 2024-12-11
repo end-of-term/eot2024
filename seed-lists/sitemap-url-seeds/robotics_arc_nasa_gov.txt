@@ -1,0 +1,6 @@
+https://robotics.nasa.gov/wp-sitemap-posts-page-1.xml
+https://robotics.nasa.gov/wp-sitemap-posts-post-1.xml
+https://robotics.nasa.gov/wp-sitemap-taxonomies-category-1.xml
+https://robotics.nasa.gov/wp-sitemap-taxonomies-post_format-1.xml
+https://robotics.nasa.gov/wp-sitemap-taxonomies-post_tag-1.xml
+https://robotics.nasa.gov/wp-sitemap-users-1.xml
