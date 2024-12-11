@@ -27,6 +27,6 @@ The project has two phases: A broad, comprehensive baseline crawl of identified 
 * 2013-02-01: "[Classification of the End of Term Archive: Extending Collection Development Practices to Web Archives](http://digital.library.unt.edu/ark:/67531/metadc152437/m2/1/high_res_d/LG-06-09-0174-09_UNT_Feb2013_FINAL.pdf)" [IMLS Final Project Report for Award LG-06-09-0174-09] (https://www.imls.gov/grants/awarded/lg-06-09-0174-09).
 
 ## How to connect
-* Join the [End of Term listserv](mailto:eot2016@archive.org).
+* Contact the [End of Term team](mailto:eot-info@archive.org).
 * Follow the [End of Term Twitter account](https://twitter.com/eotarchive).
 * Follow the [End of Term Bluesky account](https://bsky.app/profile/eotarchive.org).
