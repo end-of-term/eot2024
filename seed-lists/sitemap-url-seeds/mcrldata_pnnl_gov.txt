@@ -1,0 +1,6 @@
+https://mcrldata.pnnl.gov
+https://mcrldata.pnnl.gov/meteorology
+https://mcrldata.pnnl.gov/sbofs
+https://mcrldata.pnnl.gov/sensor-details
+https://mcrldata.pnnl.gov/water-dynamics
+https://mcrldata.pnnl.gov/water-quality

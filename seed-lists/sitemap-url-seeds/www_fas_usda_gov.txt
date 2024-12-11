@@ -1,0 +1,11 @@
+http://default/sitemap.xml?page=1
+http://default/sitemap.xml?page=10
+http://default/sitemap.xml?page=11
+http://default/sitemap.xml?page=2
+http://default/sitemap.xml?page=3
+http://default/sitemap.xml?page=4
+http://default/sitemap.xml?page=5
+http://default/sitemap.xml?page=6
+http://default/sitemap.xml?page=7
+http://default/sitemap.xml?page=8
+http://default/sitemap.xml?page=9

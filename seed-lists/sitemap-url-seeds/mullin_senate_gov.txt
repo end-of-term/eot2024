@@ -1,0 +1,9 @@
+https://www.mullin.senate.gov/issues-sitemap.xml
+https://www.mullin.senate.gov/jet-popup-sitemap.xml
+https://www.mullin.senate.gov/mullin_it_over-sitemap.xml
+https://www.mullin.senate.gov/page-sitemap.xml
+https://www.mullin.senate.gov/post_tag-sitemap.xml
+https://www.mullin.senate.gov/press_releases-sitemap.xml
+https://www.mullin.senate.gov/spending_requests-sitemap.xml
+https://www.mullin.senate.gov/udb_admin_page-sitemap.xml
+https://www.mullin.senate.gov/videos-sitemap.xml

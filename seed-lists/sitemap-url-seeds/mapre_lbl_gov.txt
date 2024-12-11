@@ -1,0 +1,8 @@
+https://mapre.es.ucsb.edu/wp-sitemap-posts-country-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-posts-map_legend_template-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-posts-map_props-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-posts-page-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-posts-post-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-taxonomies-category-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-taxonomies-dlm_download_category-1.xml
+https://mapre.es.ucsb.edu/wp-sitemap-users-1.xml

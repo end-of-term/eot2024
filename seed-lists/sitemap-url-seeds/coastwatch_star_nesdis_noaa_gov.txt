@@ -1,0 +1,12 @@
+https://coastwatch.noaa.gov/
+https://coastwatch.noaa.gov/cw_html/cwViewer.html
+https://coastwatch.noaa.gov/cwn/about/coastwatch-nodes.html
+https://coastwatch.noaa.gov/cwn/about/noaa-coastwatch-program.html
+https://coastwatch.noaa.gov/cwn/data-access-tools.html
+https://coastwatch.noaa.gov/cwn/data-access-tools/coastwatch-utilities.html
+https://coastwatch.noaa.gov/cwn/index.html
+https://coastwatch.noaa.gov/cwn/information/science-teams.html
+https://coastwatch.noaa.gov/cwn/products.html
+https://coastwatch.noaa.gov/cwn/products/noaa-ncei-blended-seawinds-nbs-v2.html
+https://coastwatch.noaa.gov/cwn/products/ocean-color-radiances-moby-field-observations.html
+https://coastwatch.noaa.gov/mailto:coastwatch.info@noaa.gov

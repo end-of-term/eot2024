@@ -1,0 +1,6 @@
+https://editorials.voa.gov/sitemap_432_1.xml.gz
+https://editorials.voa.gov/sitemap_432_2.xml.gz
+https://editorials.voa.gov/sitemap_432_latest.xml.gz
+https://editorials.voa.gov/sitemap_432_news.xml.gz
+https://editorials.voa.gov/sitemap_432_sections.xml.gz
+https://editorials.voa.gov/sitemap_432_videos.xml.gz

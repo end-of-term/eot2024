@@ -1,0 +1,4 @@
+https://fermilab.jobs/wp-sitemap-posts-page-1.xml
+https://fermilab.jobs/wp-sitemap-posts-post-1.xml
+https://fermilab.jobs/wp-sitemap-taxonomies-category-1.xml
+https://fermilab.jobs/wp-sitemap-users-1.xml

@@ -1,0 +1,12 @@
+https://www.murray.senate.gov/author-sitemap.xml
+https://www.murray.senate.gov/category-sitemap.xml
+https://www.murray.senate.gov/page-sitemap.xml
+https://www.murray.senate.gov/post-sitemap.xml
+https://www.murray.senate.gov/post-sitemap2.xml
+https://www.murray.senate.gov/post-sitemap3.xml
+https://www.murray.senate.gov/post-sitemap4.xml
+https://www.murray.senate.gov/post-sitemap5.xml
+https://www.murray.senate.gov/post-sitemap6.xml
+https://www.murray.senate.gov/post-sitemap7.xml
+https://www.murray.senate.gov/post-sitemap8.xml
+https://www.murray.senate.gov/post_tag-sitemap.xml

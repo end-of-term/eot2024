@@ -1,0 +1,7 @@
+https://videocast.nih.gov/
+https://videocast.nih.gov/BrowserTest/
+https://videocast.nih.gov/Faq/
+https://videocast.nih.gov/FutureEvents
+https://videocast.nih.gov/PastEvents
+https://videocast.nih.gov/Search
+https://videocast.nih.gov/rss/
