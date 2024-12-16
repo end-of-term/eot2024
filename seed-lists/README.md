@@ -34,6 +34,9 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * HRSA (2020-).xlsx
 * BLM 2020-2024.xlsx - 2544 entries from the Bureau of Land Management. Most but not all PDFs. Along with the usual techniques, a number of extra searches were done to find documents that include terms like ANWR, oil, fracking, etc.
 * USDA_FIS_ERS.xlsx. 1700 or so urls from the USDA. Specifically, the Food Inspection Service and Economic Research Service. A few xlsx urls too.
+* IARPA.gov 406 seeds HTML and PDF. 2020-Present IARPA 2020-Present.xlsx
+* APRA-H.gov 412 Seeds HTML and PDF 2020-Present. ARPA-H.xlsx
+* Medicaid.gov 1983 seeds PDF and a few XLSX 2020-Present MEDICAID 2020-2024.xlsx
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
