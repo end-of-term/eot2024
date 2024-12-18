@@ -82,6 +82,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Federal URLs linked to on EnergyFundsForAll.org.xlsx - Submitted by Sally Robertson, EnergyFundsForAll.org
 * Hermann-Wu-nps-20241209.txt - NPS seeds submitted by Ailsa Hermann-Wu
 * GAO-hermann-wu-20241218.xlsx - GAO seeds submitted by Ailsa Hermann-Wu
+* Performance.gov-equity-hermann-wu-20241219.xlsx seeds submitted by Ailsa Hermann-Wu on 20241219 centered around Performance.gov -- these are all PDFs of agency equity action plans or AANHPI plans. 
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
