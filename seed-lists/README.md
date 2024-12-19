@@ -8,8 +8,12 @@ Provenance notes are included below. These lists will be uploaded into the
 
 See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seeds-2024) for details.
 
-* ccf-gov-federal-web-graph-2024-jun-jul-aug.txt -- all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
-* ccf-mil-web-graph-2024-jun-jul-aug.txt -- all .mil hostnames from CCF's 2024 June/July/August web graph
+* ccf-gov-federal-web-graph-2024-jun-jul-aug.txt - all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
+* ccf-mil-web-graph-2024-jun-jul-aug.txt - all .mil hostnames from CCF's 2024 June/July/August web graph
+
+### Defenders of Wildlife seeds
+Seeds submitted by Andrew Carter on behalf of Defenders of Wildlife:
+* EoT archive submission - DoW 12-19-24.txt
 
 ### Environmental Data & Governance Initiative (EDGI) seeds
 Seeds supplied by Gretchen Gehrke of EDGI:
@@ -34,9 +38,9 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * HRSA (2020-).xlsx
 * BLM 2020-2024.xlsx - 2544 entries from the Bureau of Land Management. Most but not all PDFs. Along with the usual techniques, a number of extra searches were done to find documents that include terms like ANWR, oil, fracking, etc.
 * USDA_FIS_ERS.xlsx. 1700 or so urls from the USDA. Specifically, the Food Inspection Service and Economic Research Service. A few xlsx urls too.
-* IARPA.gov 406 seeds HTML and PDF. 2020-Present IARPA 2020-Present.xlsx
-* APRA-H.gov 412 Seeds HTML and PDF 2020-Present. ARPA-H.xlsx
-* Medicaid.gov 1983 seeds PDF and a few XLSX 2020-Present MEDICAID 2020-2024.xlsx
+* IARPA 2020-Present.xlsx - IARPA.gov 406 seeds HTML and PDF 2020-Present.
+* ARPA-H.xlsx - APRA-H.gov 412 Seeds HTML and PDF 2020-Present.
+* MEDICAID 2020-2024.xlsx - Medicaid.gov 1983 seeds PDF and a few XLSX 2020-Present.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
@@ -82,7 +86,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Federal URLs linked to on EnergyFundsForAll.org.xlsx - Submitted by Sally Robertson, EnergyFundsForAll.org
 * Hermann-Wu-nps-20241209.txt - NPS seeds submitted by Ailsa Hermann-Wu
 * GAO-hermann-wu-20241218.xlsx - GAO seeds submitted by Ailsa Hermann-Wu
-* Performance.gov-equity-hermann-wu-20241219.xlsx seeds submitted by Ailsa Hermann-Wu on 20241219 centered around Performance.gov -- these are all PDFs of agency equity action plans or AANHPI plans. 
+* Performance.gov-equity-hermann-wu-20241219.xlsx - seeds submitted by Ailsa Hermann-Wu on 20241219 centered around Performance.gov -- these are all PDFs of agency equity action plans or AANHPI plans.
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
