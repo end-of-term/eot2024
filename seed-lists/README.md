@@ -94,6 +94,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Animal Welfare Institute (AWI) AWI Farmed Animal Recommended Seeds Re USDA FSIS. AWI-USDA-FSIS-20241222.xlsx
 * NSF seeds from Machelle Hall at the Animal Welfare institute. AWI-XL-4-20241224.xlsx
 * AWI Farmed Animal Program Recommended Seeds AWI-USDA-FSIS-20241222.xlsx
+* Natl-Indian-Law-Library-bulk-seeds-20241224.xlsx
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
