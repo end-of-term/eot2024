@@ -42,6 +42,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * IARPA 2020-Present.xlsx - IARPA.gov 406 seeds HTML and PDF 2020-Present.
 * ARPA-H.xlsx - APRA-H.gov 412 Seeds HTML and PDF 2020-Present.
 * MEDICAID 2020-2024.xlsx - Medicaid.gov 1983 seeds PDF and a few XLSX 2020-Present.
+* NSF-20241224.xlsx - 2500 seeds from the NSF. Most PDFs from 2020-Present.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
@@ -91,6 +92,8 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Sustainability-gov-Hermann-Wu-20241220.xlsx - spreadsheet of PDF links (climate/sustainability plans and scorecards) from Sustainability.gov, excluding only the ones that are already listed in the URL Nomination Tool.
 * Hermann-Wu-Holocaust-Memorial-20241222.xlsx seeds from the Holocaust Memorial Museum website.
 * Animal Welfare Institute (AWI) AWI Farmed Animal Recommended Seeds Re USDA FSIS. AWI-USDA-FSIS-20241222.xlsx
+* NSF seeds from Machelle Hall at the Animal Welfare institute. AWI-XL-4-20241224.xlsx
+* AWI Farmed Animal Program Recommended Seeds AWI-USDA-FSIS-20241222.xlsx
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
