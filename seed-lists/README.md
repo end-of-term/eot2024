@@ -18,7 +18,7 @@ Seeds submitted by Andrew Carter on behalf of Defenders of Wildlife:
 ### Environmental Data & Governance Initiative (EDGI) seeds
 Seeds supplied by Gretchen Gehrke of EDGI:
 * Violation_Tracker_unique_infosource_URLs.csv - list of seeds supplied by an EDGI collaborator.
-* EDGI-partner-seeds-20241222.xlsx 20241222 aubmitted
+* EDGI-partner-seeds-20241222.xlsx
 
 ### U.S. Government Publishing Office (GPO) seeds
 Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
@@ -91,9 +91,8 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Performance.gov-equity-hermann-wu-20241219.xlsx - seeds submitted by Ailsa Hermann-Wu on 20241219 centered around Performance.gov -- these are all PDFs of agency equity action plans or AANHPI plans.
 * Sustainability-gov-Hermann-Wu-20241220.xlsx - spreadsheet of PDF links (climate/sustainability plans and scorecards) from Sustainability.gov, excluding only the ones that are already listed in the URL Nomination Tool.
 * Hermann-Wu-Holocaust-Memorial-20241222.xlsx seeds from the Holocaust Memorial Museum website.
-* Animal Welfare Institute (AWI) AWI Farmed Animal Recommended Seeds Re USDA FSIS. AWI-USDA-FSIS-20241222.xlsx
-* NSF seeds from Machelle Hall at the Animal Welfare institute. AWI-XL-4-20241224.xlsx
-* AWI Farmed Animal Program Recommended Seeds AWI-USDA-FSIS-20241222.xlsx
+* AWI-USDA-FSIS-20241222.xlsx - Animal Welfare Institute (AWI) AWI Farmed Animal Recommended Seeds Re USDA FSIS.
+* AWI-XL-4-20241224.xlsx - NSF seeds from Machelle Hall at the Animal Welfare institute.
 * Natl-Indian-Law-Library-bulk-seeds-20241224.xlsx
 
 ### Seeds sourced from Web resources
