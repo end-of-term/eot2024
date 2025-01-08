@@ -43,6 +43,10 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * ARPA-H.xlsx - APRA-H.gov 412 Seeds HTML and PDF 2020-Present.
 * MEDICAID 2020-2024.xlsx - Medicaid.gov 1983 seeds PDF and a few XLSX 2020-Present.
 * NSF-20241224.xlsx - 2500 seeds from the NSF. Most PDFs from 2020-Present.
+* Dept of Energy 2020-Present.xlsx. 2580 US Dept of Energy urls for PDF docs. 2020-Present. Various Subdomains.
+* US Agency for Global Media.xlsx. 1200 urls (HTML and PDF) from US Agency for Global Media.
+* EPA 2024.xlsx. 2000 EPA reports from 2024. All PDFs.
+* Dept of Commerce 2020-.xlsx. 800 pdfs (2020-present) from Dept of Commerce.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
@@ -96,6 +100,9 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * AWI-USDA-FSIS-20241222.xlsx - Animal Welfare Institute (AWI) AWI Farmed Animal Recommended Seeds Re USDA FSIS.
 * AWI-XL-4-20241224.xlsx - NSF seeds from Machelle Hall at the Animal Welfare institute.
 * Natl-Indian-Law-Library-bulk-seeds-20241224.xlsx
+* HCWH-EOT-seeds-full.xlsx 63 seed URLs from Health Care Without Harm noharm.org.
+* GlobalChangeGov.xlsx. list of seeds for GlobalChange.gov (mostly PDFs).
+* AWI farmed team URL nominations.xlsx. Additional seeds submitted by the Animal Welfare Institute.
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
