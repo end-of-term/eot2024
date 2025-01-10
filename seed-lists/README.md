@@ -103,6 +103,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * HCWH-EOT-seeds-full.xlsx 63 seed URLs from Health Care Without Harm noharm.org.
 * GlobalChangeGov.xlsx. list of seeds for GlobalChange.gov (mostly PDFs).
 * AWI farmed team URL nominations.xlsx. Additional seeds submitted by the Animal Welfare Institute.
+* Seeds-powertodecide-20250110.txt seeds nominated by Power to Decide https://powertodecide.org
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
