@@ -104,6 +104,9 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * GlobalChangeGov.xlsx. list of seeds for GlobalChange.gov (mostly PDFs).
 * AWI farmed team URL nominations.xlsx. Additional seeds submitted by the Animal Welfare Institute.
 * Seeds-powertodecide-20250110.txt seeds nominated by Power to Decide https://powertodecide.org
+* AWI-bulk-list-5-20250114.xlsx. bulk list 5 submitted by the Animal Welfare Institute.
+* HUDExchange-20250114.xlsx HUD seeds submitted by Ailsa Hermann-Wu.
+* Smithsonian-20250114.xlsx Smithsonian seeds submitted by Ailsa Hermann-Wu.
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
