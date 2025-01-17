@@ -19,6 +19,7 @@ Seeds submitted by Andrew Carter on behalf of Defenders of Wildlife:
 Seeds supplied by Gretchen Gehrke of EDGI:
 * Violation_Tracker_unique_infosource_URLs.csv - list of seeds supplied by an EDGI collaborator.
 * EDGI-partner-seeds-20241222.xlsx
+* EDGI EoT Bulk List 2025-01-16.csv - bulk URL list from EDGI, which includes all of the databases.
 
 ### U.S. Government Publishing Office (GPO) seeds
 Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
