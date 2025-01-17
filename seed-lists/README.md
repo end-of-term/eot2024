@@ -55,6 +55,7 @@ Seeds supplied by Antoine McGrath of Internet Archive:
 * CRS_ReportsList.csv - nominated URLs to government hosted CRS Reports from Daniel Schuman with the American Governance Institute.
 * USAStateFOIA_pdf_urls_part1.txt - Derived from the US State Department's Freedom of Information Act (FOIA) Virtual Reading Room search database. The website serves thousands of Collections as Search Pages (2,940) and 455,190 endpoint PDFs. Part 1.
 * USAStateFOIA_pdf_urls_part2.txt - Derived from the US State Department's Freedom of Information Act (FOIA) Virtual Reading Room search database. The website serves thousands of Collections as Search Pages (2,940) and 455,190 endpoint PDFs. Part 2.
+* gov_sitemaps.csv - Gov_Domain sitemap URLs and the contents of those sitemaps.
 
 ### Library of Congress seeds
 
