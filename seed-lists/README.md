@@ -107,6 +107,8 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * AWI-bulk-list-5-20250114.xlsx. bulk list 5 submitted by the Animal Welfare Institute.
 * HUDExchange-20250114.xlsx HUD seeds submitted by Ailsa Hermann-Wu.
 * Smithsonian-20250114.xlsx Smithsonian seeds submitted by Ailsa Hermann-Wu.
+* MIT_EOTNominations_20250109.xlsx submitted by Sabrina Brown and the MIT Data Management Team as part of their "data rescue" event.
+* ed_gov_urls.txt 82,129 unique URLs collected by EdTrust and deduplicated by Antoine McGrath.
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
