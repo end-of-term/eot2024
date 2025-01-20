@@ -19,6 +19,7 @@ Seeds submitted by Andrew Carter on behalf of Defenders of Wildlife:
 Seeds supplied by Gretchen Gehrke of EDGI:
 * Violation_Tracker_unique_infosource_URLs.csv - list of seeds supplied by an EDGI collaborator.
 * EDGI-partner-seeds-20241222.xlsx
+* EDGI EoT Bulk List 2025-01-16.csv - bulk URL list from EDGI, which includes all of the databases.
 
 ### U.S. Government Publishing Office (GPO) seeds
 Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
@@ -55,6 +56,7 @@ Seeds supplied by Antoine McGrath of Internet Archive:
 * CRS_ReportsList.csv - nominated URLs to government hosted CRS Reports from Daniel Schuman with the American Governance Institute.
 * USAStateFOIA_pdf_urls_part1.txt - Derived from the US State Department's Freedom of Information Act (FOIA) Virtual Reading Room search database. The website serves thousands of Collections as Search Pages (2,940) and 455,190 endpoint PDFs. Part 1.
 * USAStateFOIA_pdf_urls_part2.txt - Derived from the US State Department's Freedom of Information Act (FOIA) Virtual Reading Room search database. The website serves thousands of Collections as Search Pages (2,940) and 455,190 endpoint PDFs. Part 2.
+* gov_sitemaps.csv - Gov_Domain sitemap URLs and the contents of those sitemaps.
 
 ### Library of Congress seeds
 
