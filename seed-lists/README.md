@@ -48,6 +48,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * US Agency for Global Media.xlsx. 1200 urls (HTML and PDF) from US Agency for Global Media.
 * EPA 2024.xlsx. 2000 EPA reports from 2024. All PDFs.
 * Dept of Commerce 2020-.xlsx. 800 pdfs (2020-present) from Dept of Commerce.
+* Diversity-DEI-20250119.xlsx. 2199 PDFs (with a few exceptions) from several agencies. The focus of these docs, DEI topics and issues.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
