@@ -49,6 +49,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * EPA 2024.xlsx. 2000 EPA reports from 2024. All PDFs.
 * Dept of Commerce 2020-.xlsx. 800 pdfs (2020-present) from Dept of Commerce.
 * Diversity-DEI-20250119.xlsx. 2199 PDFs (with a few exceptions) from several agencies. The focus of these docs, DEI topics and issues.
+* pclob-20250122.xlsx. 600 urls (PDFs and HTML) from the u.s. Privacy and Civil Liberties Oversight Board.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
@@ -112,6 +113,7 @@ Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian
 * Smithsonian-20250114.xlsx Smithsonian seeds submitted by Ailsa Hermann-Wu.
 * MIT_EOTNominations_20250109.xlsx submitted by Sabrina Brown and the MIT Data Management Team as part of their "data rescue" event.
 * ed_gov_urls.txt 82,129 unique URLs collected by EdTrust and deduplicated by Antoine McGrath.
+* public-health-seeds-campaign-tobacco-free-kids-20250122.xlsx.
 
 ### Seeds sourced from Web resources
 The End of Term Web Archive team and other contributors compiled a list of sources on the Web from which to source seeds:
