@@ -50,6 +50,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * Dept of Commerce 2020-.xlsx. 800 pdfs (2020-present) from Dept of Commerce.
 * Diversity-DEI-20250119.xlsx. 2199 PDFs (with a few exceptions) from several agencies. The focus of these docs, DEI topics and issues.
 * pclob-20250122.xlsx. 600 urls (PDFs and HTML) from the u.s. Privacy and Civil Liberties Oversight Board.
+* MSPB-20250128.xlsx. 844 urls (html and pdf) from the Merit Service Protection Bureau.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
