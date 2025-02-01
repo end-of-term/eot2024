@@ -28,6 +28,10 @@ Seeds supplied by Dorothy Bower of the U.S. Government Publishing Office:
 * PURL_server_domains_20240214.csv - report of all target domains from the PURL server; some determined to be out of scope were not included in the Nomination Tool.
     * PURL_server_domains_20240214_non_gov_mil.csv - non .gov/.mil seeds from the PURL_server_domains_20240214.csv list that were determined to be in scope by Mark Phillips of UNT.
 
+### Harvard Law School's Library Innovation Lab
+
+* data_20250130_catalog_urls_empty-harvard-LiL.txt. List of urls of data.gov metadata records that do NOT inlude links to data files but ONLY have links to federal agency landing pages. LiL collected all of the records that included data files.
+
 ### infoDOCKET seeds
 Seed lists produced by Gary Price, editor of infoDOCKET:
 
