@@ -51,6 +51,10 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * Diversity-DEI-20250119.xlsx. 2199 PDFs (with a few exceptions) from several agencies. The focus of these docs, DEI topics and issues.
 * pclob-20250122.xlsx. 600 urls (PDFs and HTML) from the u.s. Privacy and Civil Liberties Oversight Board.
 * MSPB-20250128.xlsx. 844 urls (html and pdf) from the Merit Service Protection Bureau.
+* USDA_ClimateChange-20250201.xlsx. 1633 seeds from USDA. Topic: Climate Change. Includes approx 1000 urls (HTML and PDF) from Climatehubs.usda.gov.
+* EPA 2024-PDF-20250201.xlsx 2300+ EPA seeds. Most PDFs from 2024-present.
+* GENDER_ID-20250201.xlsx. 3553 lines with PDFs (from various agencies and some .mil domains) that contain the phrase "gender identity".
+* DEI_FAA-20240201.xlsx 758 lines of PDFs from FCC.gov. Terms: DEI and related terms.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
