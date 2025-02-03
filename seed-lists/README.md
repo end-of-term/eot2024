@@ -59,6 +59,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * EPA 2024-PDF-20250201.xlsx 2300+ EPA seeds. Most PDFs from 2024-present.
 * GENDER_ID-20250201.xlsx. 3553 lines with PDFs (from various agencies and some .mil domains) that contain the phrase "gender identity".
 * DEI_FAA-20240201.xlsx 758 lines of PDFs from FCC.gov. Terms: DEI and related terms.
+* data-files-various-agencies-20250203.xlsx. CSV, RDF, etc.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
