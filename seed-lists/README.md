@@ -60,6 +60,8 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * GENDER_ID-20250201.xlsx. 3553 lines with PDFs (from various agencies and some .mil domains) that contain the phrase "gender identity".
 * DEI_FAA-20240201.xlsx 758 lines of PDFs from FCC.gov. Terms: DEI and related terms.
 * data-files-various-agencies-20250203.xlsx. CSV, RDF, etc.
+* open-data-20250205.xlsx. Various data sets.
+* SBA_pdfs-202502005.xlsx. 1724 PDFs from the SBA.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
