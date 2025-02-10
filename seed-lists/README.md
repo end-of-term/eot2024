@@ -11,6 +11,12 @@ See [commoncrawl/ccf-eot-seeds-2024](https://github.com/commoncrawl/ccf-eot-seed
 * ccf-gov-federal-web-graph-2024-jun-jul-aug.txt - all .gov federal hostnames from current-federal.csv domains in CCF's 2024 June/July/August web graph
 * ccf-mil-web-graph-2024-jun-jul-aug.txt - all .mil hostnames from CCF's 2024 June/July/August web graph
 
+### Data Rescue inventories
+
+See [Data Rescue inventories](https://docs.google.com/spreadsheets/d/1OYLn6NBWStOgPUTJfYpU0y0g4uY7roIPP4qC2YztgWY/edit?usp=sharing) for details on the project being coordinated by IASSIST, RDAP, Data Curation Network and other organizations.
+
+*data-rescue-inventories-20250209.txt. All urls from the Data Rescue inventories.
+
 ### Defenders of Wildlife seeds
 Seeds submitted by Andrew Carter on behalf of Defenders of Wildlife:
 * EoT archive submission - DoW 12-19-24.txt
