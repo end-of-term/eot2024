@@ -69,6 +69,8 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * open-data-20250205.xlsx. Various data sets.
 * SBA_pdfs-202502005.xlsx. 1724 PDFs from the SBA.
 * Transgender-20250205.xlsx. 1282 PDFs that include the word transgender.
+* mil_1-20250210.xlsx. 3300 .mil seeds, includes a few agencies and DEI docs.
+* mil_2-20250210.xlsx. 150 seeds.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
