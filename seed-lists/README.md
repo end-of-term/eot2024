@@ -71,6 +71,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * Transgender-20250205.xlsx. 1282 PDFs that include the word transgender.
 * mil_1-20250210.xlsx. 3300 .mil seeds, includes a few agencies and DEI docs.
 * mil_2-20250210.xlsx. 150 seeds.
+* OGE-20250210.xlsx. 1278 seeds from the Office of Gov Ethics. Primarily PDFs.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
