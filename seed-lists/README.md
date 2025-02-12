@@ -72,6 +72,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * mil_1-20250210.xlsx. 3300 .mil seeds, includes a few agencies and DEI docs.
 * mil_2-20250210.xlsx. 150 seeds.
 * OGE-20250210.xlsx. 1278 seeds from the Office of Gov Ethics. Primarily PDFs.
+* NCES-20250212.xlsx. 1700 seeds (HTML and PDF) From National Center for Ed. Statistics. A lot of the material is new in 2024.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
