@@ -74,6 +74,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * OGE-20250210.xlsx. 1278 seeds from the Office of Gov Ethics. Primarily PDFs.
 * NCES-20250212.xlsx. 1700 seeds (HTML and PDF) From National Center for Ed. Statistics. A lot of the material is new in 2024.
 * Federal-Executive-Institute-20250213.xlsx. sheet with 292 seeds (via OPM) that include all about links from their site along with links to every class currently in their catalog.
+* NNSA-20250218.xlsx. 765 seeds from the National Nuclear Safety Admin.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
