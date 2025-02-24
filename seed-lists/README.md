@@ -76,6 +76,8 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * Federal-Executive-Institute-20250213.xlsx. sheet with 292 seeds (via OPM) that include all about links from their site along with links to every class currently in their catalog.
 * NNSA-20250218.xlsx. 765 seeds from the National Nuclear Safety Admin.
 * HUD_comm_development-20250220.xlsx. 1100 seeds from HUD Office of Community Planning and Development.
+* NRC-NOAA-FS-more-20250224.xlsx. 3000 seeds. Most data files (csv and other formats) from NOAA, FS, SSA, globalchange.gov etc.
+* ATF-20250224.xlsx. 3200 seeds from ATF.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
