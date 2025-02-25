@@ -78,6 +78,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * HUD_comm_development-20250220.xlsx. 1100 seeds from HUD Office of Community Planning and Development.
 * NRC-NOAA-FS-more-20250224.xlsx. 3000 seeds. Most data files (csv and other formats) from NOAA, FS, SSA, globalchange.gov etc.
 * ATF-20250224.xlsx. 3200 seeds from ATF.
+* Ukraine-US-embassy-20250225.xlsx. 2596 seeds from the US Embassy in Ukraine web site.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
