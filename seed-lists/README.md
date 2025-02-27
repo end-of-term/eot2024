@@ -79,6 +79,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * NRC-NOAA-FS-more-20250224.xlsx. 3000 seeds. Most data files (csv and other formats) from NOAA, FS, SSA, globalchange.gov etc.
 * ATF-20250224.xlsx. 3200 seeds from ATF.
 * Ukraine-US-embassy-20250225.xlsx. 2596 seeds from the US Embassy in Ukraine web site.
+* NSF_policy-20250227.xlsx. 2762 seeds from NSF. lots of primary docs and MANY from the /policies subdirectory.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
