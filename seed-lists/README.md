@@ -81,6 +81,8 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * Ukraine-US-embassy-20250225.xlsx. 2596 seeds from the US Embassy in Ukraine web site.
 * NSF_policy-20250227.xlsx. 2762 seeds from NSF. lots of primary docs and MANY from the /policies subdirectory.
 * NIH_record-20250307.xlsx. 2559 seeds (PDF and HTML) from the NIH news site (aka “house organ”), the NIH Record.
+* DOD_photos_20250310.xlsx. 4782 seeds of images and metadata of photos from the DOD multimedia database.
+* NASA-SCIENCE-20250310.xlsx. 2200 seeds from NASA with Special Emphasis on Science.NASA.gov.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
