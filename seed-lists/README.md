@@ -116,6 +116,7 @@ Seeds supplied by James Jacobs of Stanford University Libraries:
 
 * FOIA_Libraries_Dataset_Oct_3_2023_Final.xlsx - spreadsheet with seeds for all of the federal FOIA libraries. Lisa DeLuca, who collated the list, said it would be fine to use her spreadsheet from https://works.bepress.com/lisa_deluca/59/.
 * govdoc-l-seeds-2024.txt - seeds from documents/sites recommended on the govdoc-l Listserv 2020 - 2024.
+* NOAA-Voices-oral-history-archive-20250311.xlsx. 2631 oral histories from NOAA Fisheries Voices archive. Includes audio and transscripts.
 
 ### University of California San Diego seeds
 Seeds supplied by Kelly L. Smith, Government Information Librarian and Librarian for Urban Studies & Planning / Environmental Studies at UC San Diego Library (via James Jacobs):
