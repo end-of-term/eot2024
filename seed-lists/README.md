@@ -83,6 +83,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * NIH_record-20250307.xlsx. 2559 seeds (PDF and HTML) from the NIH news site (aka “house organ”), the NIH Record.
 * DOD_photos_20250310.xlsx. 4782 seeds of images and metadata of photos from the DOD multimedia database.
 * NASA-SCIENCE-20250310.xlsx. 2200 seeds from NASA with Special Emphasis on Science.NASA.gov.
+* StudentAidDOTgov-20250314.xlsx. 3300 seeds from StudentAid.gov. 
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
