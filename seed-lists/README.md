@@ -85,11 +85,11 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * NASA-SCIENCE-20250310.xlsx. 2200 seeds from NASA with Special Emphasis on Science.NASA.gov.
 * StudentAidDOTgov-20250314.xlsx. 3300 seeds from StudentAid.gov.
 * DOD PDF-20250314.xlsx. 411 DOD pdfs (and a few other formats).
-* FCMS-20250317.xlsx. agency listed EO.
-* IMLS-20250317.xlsx. 2502 IMLS seeds
-* MBDA-20250317.xlsx. 2606 seeds from Minority Business Development Agency (MBDA).
-* USICH-20250317.xlsx. agency listed EO.
-* infolitDOTgov-20250317.xlsx. agency listed EO.
+* FCMS-20250317.xlsx. Federal Mediation and Conciliation Service is an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
+* IMLS-20250317.xlsx. 2502 Institute of Museum and Library Services seeds, an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
+* MBDA-20250317.xlsx. 2606 seeds from Minority Business Development Agency (MBDA), an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
+* USICH-20250317.xlsx. United States Interagency Council on Homelessness seeds, an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
+* infolitDOTgov-20250317.xlsx. Seeds from informationliteracy.gov, a site of Institute of Museum and Library Services, an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
