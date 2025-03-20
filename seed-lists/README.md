@@ -90,6 +90,7 @@ Seed lists produced by Gary Price, editor of infoDOCKET:
 * MBDA-20250317.xlsx. 2606 seeds from Minority Business Development Agency (MBDA), an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
 * USICH-20250317.xlsx. United States Interagency Council on Homelessness seeds, an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
 * infolitDOTgov-20250317.xlsx. Seeds from informationliteracy.gov, a site of Institute of Museum and Library Services, an agency named in Executive Order--Continuing the Reduction of the Federal Bureaucracy (March 14, 2025).
+* USIP-20250319.xlsx. 4500 seeds from US Institute for Peace, Congressionally funded quasi-governmental org.
 
 ### Internet Archive seeds
 Seeds supplied by Antoine McGrath of Internet Archive:
